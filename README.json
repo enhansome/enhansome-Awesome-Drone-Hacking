@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T09:55:03Z",
+            "last_commit": "2026-08-14T14:25:13Z",
             "owner": "AFLplusplus",
             "repo": "AFLplusplus",
-            "stars": 6709
+            "stars": 6712
           }
         },
         {
@@ -156,10 +156,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T13:12:17Z",
+            "last_commit": "2026-08-14T09:21:53Z",
             "owner": "greatscottgadgets",
             "repo": "hackrf",
-            "stars": 8035
+            "stars": 8036
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2026-07-09T18:09:44Z",
             "owner": "gnuradio",
             "repo": "gnuradio",
-            "stars": 6217
+            "stars": 6219
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-08-10T09:42:17Z",
             "owner": "f4exb",
             "repo": "sdrangel",
-            "stars": 3907
+            "stars": 3908
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-06T20:55:38Z",
             "owner": "gqrx-sdr",
             "repo": "gqrx",
-            "stars": 3654
+            "stars": 3655
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-13T13:47:49Z",
             "owner": "bettercap",
             "repo": "bettercap",
-            "stars": 19789
+            "stars": 19792
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14767
+            "stars": 14769
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2024-10-23T16:48:32Z",
             "owner": "SysSec-KAIST",
             "repo": "LTESniffer",
-            "stars": 2215
+            "stars": 2216
           }
         },
         {
@@ -430,7 +430,7 @@
             "last_commit": "2019-02-26T07:05:38Z",
             "owner": "Evrytania",
             "repo": "LTE-Cell-Scanner",
-            "stars": 665
+            "stars": 666
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2023-10-13T12:50:06Z",
             "owner": "falkenber9",
             "repo": "falcon",
-            "stars": 356
+            "stars": 357
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2026-08-13T07:57:40Z",
             "owner": "mavlink",
             "repo": "mavlink",
-            "stars": 2392
+            "stars": 2393
           }
         },
         {
@@ -545,10 +545,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T03:43:34Z",
+            "last_commit": "2026-08-14T06:46:18Z",
             "owner": "mavlink",
             "repo": "mavros",
-            "stars": 1207
+            "stars": 1208
           }
         },
         {
@@ -562,7 +562,7 @@
             "last_commit": "2026-08-12T23:30:59Z",
             "owner": "mavlink",
             "repo": "MAVSDK",
-            "stars": 921
+            "stars": 922
           }
         },
         {
@@ -627,10 +627,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T20:46:15Z",
+            "last_commit": "2026-08-15T02:27:55Z",
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11406
+            "stars": 11410
           }
         },
         {
@@ -664,7 +664,7 @@
             "last_commit": "2026-08-13T15:11:45Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72347
+            "stars": 72358
           }
         },
         {
@@ -675,10 +675,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T23:21:46Z",
+            "last_commit": "2026-08-14T22:35:30Z",
             "owner": "radareorg",
             "repo": "radare2",
-            "stars": 24567
+            "stars": 24568
           }
         },
         {
@@ -692,7 +692,7 @@
             "last_commit": "2026-08-11T15:27:34Z",
             "owner": "ReFirmLabs",
             "repo": "binwalk",
-            "stars": 14227
+            "stars": 14229
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2026-08-11T03:52:23Z",
             "owner": "e-m-b-a",
             "repo": "emba",
-            "stars": 3593
+            "stars": 3594
           }
         },
         {
@@ -810,7 +810,7 @@
             "last_commit": "2026-08-07T11:05:35Z",
             "owner": "flashrom",
             "repo": "flashrom",
-            "stars": 1158
+            "stars": 1161
           }
         },
         {
@@ -939,7 +939,7 @@
             "last_commit": "2026-08-13T21:17:13Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4842
+            "stars": 4843
           }
         },
         {
@@ -950,10 +950,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T03:57:16Z",
+            "last_commit": "2026-08-14T05:00:43Z",
             "owner": "ArduPilot",
             "repo": "MAVProxy",
-            "stars": 590
+            "stars": 592
           }
         }
       ],
@@ -973,7 +973,7 @@
             "last_commit": "2026-08-11T01:05:33Z",
             "owner": "iBotPeaches",
             "repo": "Apktool",
-            "stars": 25276
+            "stars": 25285
           }
         },
         {
@@ -984,10 +984,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T06:20:34Z",
+            "last_commit": "2026-08-14T20:52:25Z",
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21596
+            "stars": 21597
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2024-08-18T20:56:06Z",
             "owner": "ASHWIN990",
             "repo": "ADB-Toolkit",
-            "stars": 2010
+            "stars": 2011
           }
         },
         {
@@ -1327,10 +1327,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T03:15:49Z",
+            "last_commit": "2026-08-15T01:32:01Z",
             "owner": "PX4",
             "repo": "PX4-Autopilot",
-            "stars": 12415
+            "stars": 12422
           }
         },
         {
@@ -1344,7 +1344,7 @@
             "last_commit": "2026-08-13T21:17:13Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4842
+            "stars": 4843
           }
         },
         {
@@ -1355,7 +1355,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T23:07:53Z",
+            "last_commit": "2026-08-14T23:24:54Z",
             "owner": "ArduPilot",
             "repo": "MethodicConfigurator",
             "stars": 147
@@ -1383,7 +1383,7 @@
             "last_commit": "2026-03-06T11:49:48Z",
             "owner": "Matthias84",
             "repo": "awesome-flying-fpv",
-            "stars": 686
+            "stars": 685
           }
         },
         {
@@ -1410,7 +1410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:31:23.057Z",
+    "last_updated": "2026-08-15T03:26:13.949Z",
     "original_repository": "nicholasaleks/Awesome-Drone-Hacking",
     "original_repository_sha": "ea42da6adb0bbab05e1ff21fa74b1ffdf06c5f5d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Drone-Hacking",
