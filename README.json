@@ -1,152 +1,160 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "American Fuzzy Lop plus plus",
+              "description": "AFL with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189044704,
+                "language": "C",
+                "last_commit": "2026-08-18T13:35:44Z",
+                "owner": "AFLplusplus",
+                "repo": "AFLplusplus",
+                "stars": 6725
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Avatar² Framework",
+              "description": "Fuzzware is a project for automated, self-configuring fuzzing of firmware images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94234201,
+                "language": "Python",
+                "last_commit": "2025-03-31T20:51:49Z",
+                "owner": "avatartwo",
+                "repo": "avatar2",
+                "stars": 574
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fuzzware",
+              "description": "The target orchestration framework with focus on dynamic analysis of embedded devices' firmware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449267455,
+                "language": "Python",
+                "last_commit": "2026-06-27T07:50:04Z",
+                "owner": "fuzzware-fuzzer",
+                "repo": "fuzzware",
+                "stars": 376
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fuzzing & Analysis Tools"
+        }
+      ],
       "title": "💿 Real-Time Operating Systems"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "American Fuzzy Lop plus plus",
-          "description": "AFL with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T13:35:44Z",
-            "owner": "AFLplusplus",
-            "repo": "AFLplusplus",
-            "stars": 6721
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RemoteID Spoofer",
+              "description": "An ESP8266/NodeMCU tool that simulates up to 16 fake Remote ID–broadcasting drones around a GPS location via Wi‑Fi for Red Team testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644596337,
+                "language": "C",
+                "last_commit": "2025-09-26T10:44:47Z",
+                "owner": "jjshoots",
+                "repo": "RemoteIDSpoofer",
+                "stars": 561
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DragonSync-iOS",
+              "description": "Real-time Remote/Drone ID–compliant drone detection and monitoring on iOS/macOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 890610300,
+                "language": "Swift",
+                "last_commit": "2026-06-09T12:57:54Z",
+                "owner": "Root-Down-Digital",
+                "repo": "DragonSync-iOS",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WiFi RID capture",
+              "description": "A Linux tool that listens for ASTM F3411 (Wi‑Fi/Bluetooth) Remote ID frames and logs real UAV positions in JSON for monitoring or analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570813249,
+                "language": "C",
+                "last_commit": "2023-04-20T15:20:17Z",
+                "owner": "sxjack",
+                "repo": "unix_rid_capture",
+                "stars": 66
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Remote Identification Discovery & Spoofing Tools"
         },
         {
-          "node_type": "item",
-          "title": "Avatar² Framework",
-          "description": "Fuzzware is a project for automated, self-configuring fuzzing of firmware images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-31T20:51:49Z",
-            "owner": "avatartwo",
-            "repo": "avatar2",
-            "stars": 574
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fuzzware",
-          "description": "The target orchestration framework with focus on dynamic analysis of embedded devices' firmware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-27T07:50:04Z",
-            "owner": "fuzzware-fuzzer",
-            "repo": "fuzzware",
-            "stars": 376
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SiKW00F",
+              "description": "SiK Radio Detection & MAVLink Telemetry Eavesdropping Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 906071397,
+                "language": "Python",
+                "last_commit": "2025-08-03T19:15:25Z",
+                "owner": "nicholasaleks",
+                "repo": "sikw00f",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SiKening",
+              "description": "3DR Radio SiKening PoC by Meatball Ninja - Brute force 3DR NetID and sync up with hopping sequence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43091228,
+                "language": "C",
+                "last_commit": "2015-09-28T15:13:59Z",
+                "owner": "MAVProxyUser",
+                "repo": "SiKening",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Telemetry Detection & Eavesdropping Tools"
         }
       ],
-      "title": "Fuzzing & Analysis Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔌 Flight Controller & Embedded Systems"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "📻 Radio & Telemetry"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RemoteID Spoofer",
-          "description": "An ESP8266/NodeMCU tool that simulates up to 16 fake Remote ID–broadcasting drones around a GPS location via Wi‑Fi for Red Team testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-09-26T10:44:47Z",
-            "owner": "jjshoots",
-            "repo": "RemoteIDSpoofer",
-            "stars": 561
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DragonSync-iOS",
-          "description": "Real-time Remote/Drone ID–compliant drone detection and monitoring on iOS/macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-06-09T12:57:54Z",
-            "owner": "Root-Down-Digital",
-            "repo": "DragonSync-iOS",
-            "stars": 272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WiFi RID capture",
-          "description": "A Linux tool that listens for ASTM F3411 (Wi‑Fi/Bluetooth) Remote ID frames and logs real UAV positions in JSON for monitoring or analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-04-20T15:20:17Z",
-            "owner": "sxjack",
-            "repo": "unix_rid_capture",
-            "stars": 66
-          }
-        }
-      ],
-      "title": "Remote Identification Discovery & Spoofing Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SiKW00F",
-          "description": "SiK Radio Detection & MAVLink Telemetry Eavesdropping Toolkit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-03T19:15:25Z",
-            "owner": "nicholasaleks",
-            "repo": "sikw00f",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SiKening",
-          "description": "3DR Radio SiKening PoC by Meatball Ninja - Brute force 3DR NetID and sync up with hopping sequence.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2015-09-28T15:13:59Z",
-            "owner": "MAVProxyUser",
-            "repo": "SiKening",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Telemetry Detection & Eavesdropping Tools"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -155,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3681392,
             "language": "C",
             "last_commit": "2026-08-18T13:09:16Z",
             "owner": "greatscottgadgets",
@@ -169,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3030065,
             "language": "C++",
             "last_commit": "2026-08-18T15:26:26Z",
             "owner": "gnuradio",
             "repo": "gnuradio",
-            "stars": 6225
+            "stars": 6226
           }
         },
         {
@@ -183,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41646286,
             "language": "C++",
             "last_commit": "2026-08-17T18:48:03Z",
             "owner": "f4exb",
@@ -197,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1033271,
             "language": "C++",
             "last_commit": "2026-08-06T20:55:38Z",
             "owner": "gqrx-sdr",
@@ -211,11 +223,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202195438,
             "language": "C++",
             "last_commit": "2026-02-11T18:28:43Z",
             "owner": "BatchDrake",
             "repo": "SigDigger",
-            "stars": 2867
+            "stars": 2866
           }
         },
         {
@@ -225,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9712011,
             "language": "C",
             "last_commit": "2026-03-19T15:58:24Z",
             "owner": "greatscottgadgets",
@@ -239,11 +253,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32794055,
             "language": "C",
             "last_commit": "2023-09-12T09:39:25Z",
             "owner": "riverloopsec",
             "repo": "killerbee",
-            "stars": 845
+            "stars": 846
           }
         },
         {
@@ -253,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144425971,
             "language": "Python",
             "last_commit": "2021-09-13T19:18:14Z",
             "owner": "BishopFox",
@@ -264,264 +280,286 @@
       "title": "Misc RF Tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bettercap",
+              "description": "MITM framework to hijack drone app traffic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116576783,
+                "language": "Go",
+                "last_commit": "2026-08-13T13:47:49Z",
+                "owner": "bettercap",
+                "repo": "bettercap",
+                "stars": 19816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WifiPhisher",
+              "description": "Automated Evil Twin to phish Drone app creds.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24499174,
+                "language": "Python",
+                "last_commit": "2026-05-22T17:42:02Z",
+                "owner": "wifiphisher",
+                "repo": "wifiphisher",
+                "stars": 14774
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hack-a-drone",
+              "description": "A Java-based project allowing control of Wi‑Fi drones (e.g. Cheerson CX‑10) via app or keyboard, demonstrating remote command capabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91571521,
+                "language": "Java",
+                "last_commit": "2018-02-06T11:10:59Z",
+                "owner": "Ordina-JTech",
+                "repo": "hack-a-drone",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Wi-Fi Detection & Infiltration Tools"
+        }
+      ],
       "title": "📶 Wi-Fi Communications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Bettercap",
-          "description": "MITM framework to hijack drone app traffic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-13T13:47:49Z",
-            "owner": "bettercap",
-            "repo": "bettercap",
-            "stars": 19812
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WifiPhisher",
-          "description": "Automated Evil Twin to phish Drone app creds.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-22T17:42:02Z",
-            "owner": "wifiphisher",
-            "repo": "wifiphisher",
-            "stars": 14775
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hack-a-drone",
-          "description": "A Java-based project allowing control of Wi‑Fi drones (e.g. Cheerson CX‑10) via app or keyboard, demonstrating remote command capabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-02-06T11:10:59Z",
-            "owner": "Ordina-JTech",
-            "repo": "hack-a-drone",
-            "stars": 20
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RX5808 Pro Diversity",
+              "description": "DIY 5.8 GHz FPV video receiver station with antenna diversity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40463057,
+                "language": "C++",
+                "last_commit": "2024-02-21T17:07:53Z",
+                "owner": "sheaivey",
+                "repo": "rx5808-pro-diversity",
+                "stars": 745
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TVSharp",
+              "description": "An analog TV decoder for the RTL-SDR (but sharper).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 628346947,
+                "language": "C#",
+                "last_commit": "2024-03-26T08:51:26Z",
+                "owner": "linuxuser2064",
+                "repo": "TVSharper",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FPV DETECTION",
+              "description": "Raspberry Pi Pico-based FPV Detection Tool with 1.6 km range.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 928498328,
+                "language": "C++",
+                "last_commit": "2025-02-25T22:44:34Z",
+                "owner": "Payalo64",
+                "repo": "FPV_DETECTED_1.2_5.8GHZ",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video Detection & Eavesdropping"
         }
       ],
-      "title": "Wi-Fi Detection & Infiltration Tools"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "📺 FPV & Payloads"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "RX5808 Pro Diversity",
-          "description": "DIY 5.8 GHz FPV video receiver station with antenna diversity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-02-21T17:07:53Z",
-            "owner": "sheaivey",
-            "repo": "rx5808-pro-diversity",
-            "stars": 745
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TVSharp",
-          "description": "An analog TV decoder for the RTL-SDR (but sharper).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2024-03-26T08:51:26Z",
-            "owner": "linuxuser2064",
-            "repo": "TVSharper",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FPV DETECTION",
-          "description": "Raspberry Pi Pico-based FPV Detection Tool with 1.6 km range.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-02-25T22:44:34Z",
-            "owner": "Payalo64",
-            "repo": "FPV_DETECTED_1.2_5.8GHZ",
-            "stars": 5
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LTE Sniffer",
+              "description": "Open-source LTE downlink/uplink eavesdropper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626771649,
+                "language": "C++",
+                "last_commit": "2024-10-23T16:48:32Z",
+                "owner": "SysSec-KAIST",
+                "repo": "LTESniffer",
+                "stars": 2216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QCSuper",
+              "description": "Capture 2G-4G traffic using Qualcomm phones.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195964900,
+                "language": "Python",
+                "last_commit": "2026-07-23T16:33:58Z",
+                "owner": "P1sec",
+                "repo": "QCSuper",
+                "stars": 1637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gr-gsm",
+              "description": "GSM analysis with GNU Radio.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17038637,
+                "language": "C++",
+                "last_commit": "2025-03-10T11:49:09Z",
+                "owner": "ptrkrysik",
+                "repo": "gr-gsm",
+                "stars": 1494
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LTE-Cell-Scanner",
+              "description": "LTE cell detection and analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5484443,
+                "language": "C++",
+                "last_commit": "2019-02-26T07:05:38Z",
+                "owner": "Evrytania",
+                "repo": "LTE-Cell-Scanner",
+                "stars": 667
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FALCON LTE",
+              "description": "Fast Analysis of LTE Control Channels for real-time analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184469512,
+                "language": "C++",
+                "last_commit": "2023-10-13T12:50:06Z",
+                "owner": "falkenber9",
+                "repo": "falcon",
+                "stars": 359
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kalibrate",
+              "description": "GSM base station scanner and frequency calibration tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19214902,
+                "language": "C++",
+                "last_commit": "2022-03-21T03:06:14Z",
+                "owner": "scateu",
+                "repo": "kalibrate-hackrf",
+                "stars": 306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "5GBaseChecker",
+              "description": "Tool for detecting vulnerabilities in 5G baseband implementations (2024).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 766347854,
+                "language": "C",
+                "last_commit": "2025-01-22T17:04:13Z",
+                "owner": "SyNSec-den",
+                "repo": "5GBaseChecker",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Modmobmap",
+              "description": "Mobile network mapping.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137120129,
+                "language": "Python",
+                "last_commit": "2023-03-24T14:06:59Z",
+                "owner": "Synacktiv-contrib",
+                "repo": "Modmobmap",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Modmobjam",
+              "description": "Mobile jamming research.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142592751,
+                "language": "Python",
+                "last_commit": "2020-05-30T20:03:37Z",
+                "owner": "Synacktiv-contrib",
+                "repo": "Modmobjam",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OsmocomBB",
+              "description": "Free firmware for mobile phone baseband processors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7470187,
+                "language": "C",
+                "last_commit": "2026-08-08T12:16:12Z",
+                "owner": "korczis",
+                "repo": "osmocom-bb",
+                "stars": 62
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cellular Analysis & Tampering Tools"
         }
       ],
-      "title": "Video Detection & Eavesdropping"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "📡 BVLOS Communications"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LTE Sniffer",
-          "description": "Open-source LTE downlink/uplink eavesdropper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-10-23T16:48:32Z",
-            "owner": "SysSec-KAIST",
-            "repo": "LTESniffer",
-            "stars": 2216
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QCSuper",
-          "description": "Capture 2G-4G traffic using Qualcomm phones.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T16:33:58Z",
-            "owner": "P1sec",
-            "repo": "QCSuper",
-            "stars": 1637
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gr-gsm",
-          "description": "GSM analysis with GNU Radio.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-03-10T11:49:09Z",
-            "owner": "ptrkrysik",
-            "repo": "gr-gsm",
-            "stars": 1493
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LTE-Cell-Scanner",
-          "description": "LTE cell detection and analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-02-26T07:05:38Z",
-            "owner": "Evrytania",
-            "repo": "LTE-Cell-Scanner",
-            "stars": 667
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FALCON LTE",
-          "description": "Fast Analysis of LTE Control Channels for real-time analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-10-13T12:50:06Z",
-            "owner": "falkenber9",
-            "repo": "falcon",
-            "stars": 359
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kalibrate",
-          "description": "GSM base station scanner and frequency calibration tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-03-21T03:06:14Z",
-            "owner": "scateu",
-            "repo": "kalibrate-hackrf",
-            "stars": 306
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "5GBaseChecker",
-          "description": "Tool for detecting vulnerabilities in 5G baseband implementations (2024).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-01-22T17:04:13Z",
-            "owner": "SyNSec-den",
-            "repo": "5GBaseChecker",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Modmobmap",
-          "description": "Mobile network mapping.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-24T14:06:59Z",
-            "owner": "Synacktiv-contrib",
-            "repo": "Modmobmap",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Modmobjam",
-          "description": "Mobile jamming research.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-05-30T20:03:37Z",
-            "owner": "Synacktiv-contrib",
-            "repo": "Modmobjam",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OsmocomBB",
-          "description": "Free firmware for mobile phone baseband processors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-08T12:16:12Z",
-            "owner": "korczis",
-            "repo": "osmocom-bb",
-            "stars": 62
-          }
-        }
-      ],
-      "title": "Cellular Analysis & Tampering Tools"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -530,8 +568,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2195723,
             "language": "Python",
-            "last_commit": "2026-08-19T00:11:15Z",
+            "last_commit": "2026-08-19T05:36:47Z",
             "owner": "mavlink",
             "repo": "mavlink",
             "stars": 2399
@@ -544,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15189073,
             "language": "C++",
             "last_commit": "2026-08-14T06:46:18Z",
             "owner": "mavlink",
@@ -558,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94815442,
             "language": "C++",
             "last_commit": "2026-08-17T22:11:47Z",
             "owner": "mavlink",
@@ -572,52 +613,56 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75330320,
             "language": "C++",
             "last_commit": "2026-07-13T06:32:59Z",
             "owner": "mavlink-router",
             "repo": "mavlink-router",
             "stars": 610
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "aztarna",
+              "description": "ROS Footprinting Tool.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 145814764,
+                "language": "Python",
+                "last_commit": "2026-07-14T12:54:42Z",
+                "owner": "aliasrobotics",
+                "repo": "aztarna",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MAVSploit",
+              "description": "Pentesting toolkit designed specifically for identifying and exploiting vulnerabilities within the MavLink communication protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 846603706,
+                "language": "Lua",
+                "last_commit": "2026-02-11T08:05:46Z",
+                "owner": "Rud3m",
+                "repo": "MavSploit",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Protocol Analysis & Tampering"
         }
       ],
       "title": "🤖 Protocols & Middleware Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "aztarna",
-          "description": "ROS Footprinting Tool.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-07-14T12:54:42Z",
-            "owner": "aliasrobotics",
-            "repo": "aztarna",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MAVSploit",
-          "description": "Pentesting toolkit designed specifically for identifying and exploiting vulnerabilities within the MavLink communication protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-02-11T08:05:46Z",
-            "owner": "Rud3m",
-            "repo": "MavSploit",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Protocol Analysis & Tampering"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -626,11 +671,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37060852,
             "language": "C",
             "last_commit": "2026-08-17T20:25:07Z",
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11433
+            "stars": 11435
           }
         },
         {
@@ -640,293 +686,310 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32148604,
             "language": "C",
             "last_commit": "2026-08-18T03:21:00Z",
             "owner": "iNavFlight",
             "repo": "inav",
-            "stars": 4185
+            "stars": 4186
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ghidra",
+              "description": "Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173228436,
+                "language": "Java",
+                "last_commit": "2026-08-18T16:16:20Z",
+                "owner": "NationalSecurityAgency",
+                "repo": "ghidra",
+                "stars": 72516
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Radare2",
+              "description": "Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4869294,
+                "language": "C",
+                "last_commit": "2026-08-19T11:03:59Z",
+                "owner": "radareorg",
+                "repo": "radare2",
+                "stars": 24597
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Binwalk",
+              "description": "Searches a binary for \"interesting\" stuff, as well as extracts arbitrary files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14434734,
+                "language": "Rust",
+                "last_commit": "2026-08-11T15:27:34Z",
+                "owner": "ReFirmLabs",
+                "repo": "binwalk",
+                "stars": 14241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emba",
+              "description": "Analyze Linux-based firmware of embedded devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290152313,
+                "language": "Shell",
+                "last_commit": "2026-08-18T19:37:49Z",
+                "owner": "e-m-b-a",
+                "repo": "emba",
+                "stars": 3598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cwe_checker",
+              "description": "Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152072866,
+                "language": "Rust",
+                "last_commit": "2026-08-18T10:59:28Z",
+                "owner": "fkie-cad",
+                "repo": "cwe_checker",
+                "stars": 1349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Firmwalker",
+              "description": "Searches extracted firmware images for interesting files and information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50965326,
+                "language": "Shell",
+                "last_commit": "2023-08-29T18:20:21Z",
+                "owner": "craigz28",
+                "repo": "firmwalker",
+                "stars": 1222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JTAGenum",
+              "description": "Add JTAG capabilities to an Arduino.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612594,
+                "language": "C++",
+                "last_commit": "2023-10-30T08:40:07Z",
+                "owner": "cyphunk",
+                "repo": "JTAGenum",
+                "stars": 800
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Firmware Slap",
+              "description": "Discovering vulnerabilities in firmware through concolic analysis and function clustering.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193618712,
+                "language": "Python",
+                "last_commit": "2020-09-17T19:07:12Z",
+                "owner": "ChrisTheCoolHut",
+                "repo": "Firmware_Slap",
+                "stars": 476
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trommel",
+              "description": "Searches extracted firmware images for interesting files and information.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 107543105,
+                "language": "Python",
+                "last_commit": "2020-06-23T20:03:41Z",
+                "owner": "CERTCC",
+                "repo": "trommel",
+                "stars": 213
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firmware Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DJI Firmware Tools",
+              "description": "Utilities to extract, modify, and rebuild DJI drone firmware modules—including calibration, parameter editing, and repackaging for analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64874678,
+                "language": "C",
+                "last_commit": "2026-07-21T10:32:06Z",
+                "owner": "o-gs",
+                "repo": "dji-firmware-tools",
+                "stars": 2175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flashrom",
+              "description": "Tool for detecting, reading, writing, verifying and erasing flash chips.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1474948,
+                "language": "C",
+                "last_commit": "2026-08-17T16:05:36Z",
+                "owner": "flashrom",
+                "repo": "flashrom",
+                "stars": 1166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Firmware Mod Kit",
+              "description": "Extraction tools for several container formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36507356,
+                "language": "C",
+                "last_commit": "2026-02-17T15:27:22Z",
+                "owner": "rampageX",
+                "repo": "firmware-mod-kit",
+                "stars": 998
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cotopaxi",
+              "description": "Set of tools for security testing of Internet of Things devices using specific network IoT protocols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168120604,
+                "language": "Python",
+                "last_commit": "2024-05-31T16:31:01Z",
+                "owner": "Samsung",
+                "repo": "cotopaxi",
+                "stars": 362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dumpflash",
+              "description": "Low-level NAND Flash dump and parsing utility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19590781,
+                "language": "Python",
+                "last_commit": "2022-03-17T17:39:50Z",
+                "owner": "ohjeongwook",
+                "repo": "dumpflash",
+                "stars": 321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Samsung Firmware Magic",
+              "description": "Decrypt Samsung SSD firmware updates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254223883,
+                "language": "Python",
+                "last_commit": "2021-04-11T13:08:57Z",
+                "owner": "chrivers",
+                "repo": "samsung-firmware-magic",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FACT Extractor",
+              "description": "Detects container format automatically and executes the corresponding extraction tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170100702,
+                "language": "Python",
+                "last_commit": "2026-07-31T14:43:13Z",
+                "owner": "fkie-cad",
+                "repo": "fact_extractor",
+                "stars": 90
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firmware Extraction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DJI FC Patcher",
+              "description": "Custom FC Patcher and Flashing for various DJI drones.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145950575,
+                "language": "Python",
+                "last_commit": "2020-01-26T18:35:26Z",
+                "owner": "o-gs",
+                "repo": "DJI_FC_Patcher",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WAF",
+              "description": "Python-based Ardupilot Firmware Compiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47159977,
+                "language": "Python",
+                "last_commit": "2024-10-10T23:08:11Z",
+                "owner": "ArduPilot",
+                "repo": "waf",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firmware Modification"
         }
       ],
       "title": "💽 Autopilot Firmware"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Ghidra",
-          "description": "Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T16:16:20Z",
-            "owner": "NationalSecurityAgency",
-            "repo": "ghidra",
-            "stars": 72500
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Radare2",
-          "description": "Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-19T00:36:40Z",
-            "owner": "radareorg",
-            "repo": "radare2",
-            "stars": 24593
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Binwalk",
-          "description": "Searches a binary for \"interesting\" stuff, as well as extracts arbitrary files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T15:27:34Z",
-            "owner": "ReFirmLabs",
-            "repo": "binwalk",
-            "stars": 14237
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emba",
-          "description": "Analyze Linux-based firmware of embedded devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-18T19:37:49Z",
-            "owner": "e-m-b-a",
-            "repo": "emba",
-            "stars": 3597
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cwe_checker",
-          "description": "Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T10:59:28Z",
-            "owner": "fkie-cad",
-            "repo": "cwe_checker",
-            "stars": 1349
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Firmwalker",
-          "description": "Searches extracted firmware images for interesting files and information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-08-29T18:20:21Z",
-            "owner": "craigz28",
-            "repo": "firmwalker",
-            "stars": 1221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JTAGenum",
-          "description": "Add JTAG capabilities to an Arduino.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-10-30T08:40:07Z",
-            "owner": "cyphunk",
-            "repo": "JTAGenum",
-            "stars": 800
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Firmware Slap",
-          "description": "Discovering vulnerabilities in firmware through concolic analysis and function clustering.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-17T19:07:12Z",
-            "owner": "ChrisTheCoolHut",
-            "repo": "Firmware_Slap",
-            "stars": 476
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trommel",
-          "description": "Searches extracted firmware images for interesting files and information.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2020-06-23T20:03:41Z",
-            "owner": "CERTCC",
-            "repo": "trommel",
-            "stars": 213
-          }
-        }
-      ],
-      "title": "Firmware Analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DJI Firmware Tools",
-          "description": "Utilities to extract, modify, and rebuild DJI drone firmware modules—including calibration, parameter editing, and repackaging for analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-21T10:32:06Z",
-            "owner": "o-gs",
-            "repo": "dji-firmware-tools",
-            "stars": 2175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flashrom",
-          "description": "Tool for detecting, reading, writing, verifying and erasing flash chips.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T16:05:36Z",
-            "owner": "flashrom",
-            "repo": "flashrom",
-            "stars": 1166
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Firmware Mod Kit",
-          "description": "Extraction tools for several container formats.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-17T15:27:22Z",
-            "owner": "rampageX",
-            "repo": "firmware-mod-kit",
-            "stars": 998
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cotopaxi",
-          "description": "Set of tools for security testing of Internet of Things devices using specific network IoT protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-31T16:31:01Z",
-            "owner": "Samsung",
-            "repo": "cotopaxi",
-            "stars": 362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dumpflash",
-          "description": "Low-level NAND Flash dump and parsing utility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-17T17:39:50Z",
-            "owner": "ohjeongwook",
-            "repo": "dumpflash",
-            "stars": 321
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Samsung Firmware Magic",
-          "description": "Decrypt Samsung SSD firmware updates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-04-11T13:08:57Z",
-            "owner": "chrivers",
-            "repo": "samsung-firmware-magic",
-            "stars": 237
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FACT Extractor",
-          "description": "Detects container format automatically and executes the corresponding extraction tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-31T14:43:13Z",
-            "owner": "fkie-cad",
-            "repo": "fact_extractor",
-            "stars": 90
-          }
-        }
-      ],
-      "title": "Firmware Extraction"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DJI FC Patcher",
-          "description": "Custom FC Patcher and Flashing for various DJI drones.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-01-26T18:35:26Z",
-            "owner": "o-gs",
-            "repo": "DJI_FC_Patcher",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WAF",
-          "description": "Python-based Ardupilot Firmware Compiler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-10T23:08:11Z",
-            "owner": "ArduPilot",
-            "repo": "waf",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Firmware Modification"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧠 Companion Computers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -935,11 +998,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2567844,
             "language": "C++",
             "last_commit": "2026-08-18T21:12:12Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4854
+            "stars": 4856
           }
         },
         {
@@ -949,6 +1013,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4198043,
             "language": "Python",
             "last_commit": "2026-08-17T09:07:15Z",
             "owner": "ArduPilot",
@@ -960,7 +1025,7 @@
       "title": "🛫 Ground Control Stations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -969,11 +1034,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3766706,
             "language": "Java",
             "last_commit": "2026-08-11T01:05:33Z",
             "owner": "iBotPeaches",
             "repo": "Apktool",
-            "stars": 25315
+            "stars": 25319
           }
         },
         {
@@ -983,11 +1049,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30102273,
             "language": "JavaScript",
             "last_commit": "2026-08-17T21:31:57Z",
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21610
+            "stars": 21612
           }
         },
         {
@@ -997,6 +1064,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32313383,
             "language": "Java",
             "last_commit": "2024-07-21T06:08:25Z",
             "owner": "pxb1988",
@@ -1011,11 +1079,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23953531,
             "language": "Python",
             "last_commit": "2026-08-13T17:59:02Z",
             "owner": "androguard",
             "repo": "androguard",
-            "stars": 6198
+            "stars": 6199
           }
         },
         {
@@ -1025,6 +1094,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175850447,
             "language": "Shell",
             "last_commit": "2024-08-18T20:56:06Z",
             "owner": "ASHWIN990",
@@ -1039,251 +1109,271 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80468491,
             "language": "Python",
             "last_commit": "2021-11-07T23:12:43Z",
             "owner": "Storyyeller",
             "repo": "enjarify",
-            "stars": 952
+            "stars": 953
           }
         }
       ],
       "title": "📱 Mobile GCS Apps"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Drone-ID Receiver for DJI OcuSync 2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 585634235,
+                "language": "Python",
+                "last_commit": "2023-03-10T12:58:04Z",
+                "owner": "RUB-SysSec",
+                "repo": "DroneSecurity",
+                "stars": 1306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DJI Drone ID",
+              "description": "An SDR-based decoder that demodulates proprietary DJI DroneID RF bursts and allows creation of arbitrary DroneID frames using MATLAB/Octave scripts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479032326,
+                "language": "MATLAB",
+                "last_commit": "2024-05-27T13:40:02Z",
+                "owner": "proto17",
+                "repo": "dji_droneid",
+                "stars": 536
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deejaeye-Modder",
+              "description": "DJI Drone Firmware Modding Tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96479541,
+                "language": "Smali",
+                "last_commit": "2021-12-09T21:43:14Z",
+                "owner": "Bin4ry",
+                "repo": "deejayeye-modder",
+                "stars": 396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DroneXtract",
+              "description": "Digital forensics suite for DJI drones.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 640702136,
+                "language": "Go",
+                "last_commit": "2023-07-19T03:11:48Z",
+                "owner": "ANG13T",
+                "repo": "DroneXtract",
+                "stars": 363
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dji_rev",
+              "description": "DJI Reverse Engineering Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95594723,
+                "language": "C++",
+                "last_commit": "2017-09-13T13:25:41Z",
+                "owner": "fvantienen",
+                "repo": "dji_rev",
+                "stars": 317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DUMLdore",
+              "description": "DJI Firmware Flashing Tool v3.20.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 97691568,
+                "language": null,
+                "last_commit": "2019-03-02T05:47:47Z",
+                "owner": "jezzab",
+                "repo": "DUMLdore",
+                "stars": 315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RedHerring",
+              "description": "FTPD directory transversal 0day.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95992418,
+                "language": "Ruby",
+                "last_commit": "2017-09-13T13:26:20Z",
+                "owner": "MAVProxyUser",
+                "repo": "P0VsRedHerring",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyduml",
+              "description": "Python based DUML \"DJI Universal Markup Language\" Exploit & FW upgrade/downgrade tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96928547,
+                "language": "Python",
+                "last_commit": "2019-08-31T14:23:36Z",
+                "owner": "hdnes",
+                "repo": "pyduml",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DUMLrub",
+              "description": "Ruby port of PyDUML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97985718,
+                "language": "Ruby",
+                "last_commit": "2022-04-23T00:26:56Z",
+                "owner": "MAVProxyUser",
+                "repo": "DUMLrub",
+                "stars": 48
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DJI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SkyJack",
+              "description": "Drone source used to autonomously seek out, hack, and wirelessly take full control over any other Parrot or 3DR drones.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14887020,
+                "language": "JavaScript",
+                "last_commit": "2017-11-21T06:25:52Z",
+                "owner": "samyk",
+                "repo": "skyjack",
+                "stars": 1829
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DroneJack",
+              "description": "Dronejack is a node web-based application to take control of a Parrot drone.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90867685,
+                "language": "JavaScript",
+                "last_commit": "2017-06-09T13:42:31Z",
+                "owner": "brospars",
+                "repo": "wic-ter-dronejack",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Parrot"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DroneSploit",
+              "description": "Drone pentesting framework console.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207086727,
+                "language": "Python",
+                "last_commit": "2024-11-23T13:13:00Z",
+                "owner": "dronesploit",
+                "repo": "dronesploit",
+                "stars": 1998
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Drone-Hacking-Tool",
+              "description": "Drone Hacking Tool is a GUI tool that works with a USB Wifi adapter and HackRF One for hacking drones.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 437980144,
+                "language": "Python",
+                "last_commit": "2022-11-25T07:19:57Z",
+                "owner": "HKSSY",
+                "repo": "Drone-Hacking-Tool",
+                "stars": 691
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Snoopy",
+              "description": "A distributed tracking and data interception framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7036331,
+                "language": "Python",
+                "last_commit": "2012-12-07T13:18:27Z",
+                "owner": "sensepost",
+                "repo": "Snoopy",
+                "stars": 613
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Drone Duel",
+              "description": "Code used in the Great Drone Duel of 2016.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61048842,
+                "language": "Python",
+                "last_commit": "2016-06-13T20:59:30Z",
+                "owner": "marcnewlin",
+                "repo": "drone-duel",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
+        }
+      ],
       "title": "🏢 Vendor-Specific Research"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Drone-ID Receiver for DJI OcuSync 2.0",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-10T12:58:04Z",
-            "owner": "RUB-SysSec",
-            "repo": "DroneSecurity",
-            "stars": 1306
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DJI Drone ID",
-          "description": "An SDR-based decoder that demodulates proprietary DJI DroneID RF bursts and allows creation of arbitrary DroneID frames using MATLAB/Octave scripts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2024-05-27T13:40:02Z",
-            "owner": "proto17",
-            "repo": "dji_droneid",
-            "stars": 536
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deejaeye-Modder",
-          "description": "DJI Drone Firmware Modding Tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Smali",
-            "last_commit": "2021-12-09T21:43:14Z",
-            "owner": "Bin4ry",
-            "repo": "deejayeye-modder",
-            "stars": 396
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DroneXtract",
-          "description": "Digital forensics suite for DJI drones.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-07-19T03:11:48Z",
-            "owner": "ANG13T",
-            "repo": "DroneXtract",
-            "stars": 363
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dji_rev",
-          "description": "DJI Reverse Engineering Toolkit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-09-13T13:25:41Z",
-            "owner": "fvantienen",
-            "repo": "dji_rev",
-            "stars": 317
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DUMLdore",
-          "description": "DJI Firmware Flashing Tool v3.20.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2019-03-02T05:47:47Z",
-            "owner": "jezzab",
-            "repo": "DUMLdore",
-            "stars": 315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RedHerring",
-          "description": "FTPD directory transversal 0day.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-09-13T13:26:20Z",
-            "owner": "MAVProxyUser",
-            "repo": "P0VsRedHerring",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyduml",
-          "description": "Python based DUML \"DJI Universal Markup Language\" Exploit & FW upgrade/downgrade tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-08-31T14:23:36Z",
-            "owner": "hdnes",
-            "repo": "pyduml",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DUMLrub",
-          "description": "Ruby port of PyDUML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2022-04-23T00:26:56Z",
-            "owner": "MAVProxyUser",
-            "repo": "DUMLrub",
-            "stars": 48
-          }
-        }
-      ],
-      "title": "DJI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SkyJack",
-          "description": "Drone source used to autonomously seek out, hack, and wirelessly take full control over any other Parrot or 3DR drones.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-11-21T06:25:52Z",
-            "owner": "samyk",
-            "repo": "skyjack",
-            "stars": 1829
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DroneJack",
-          "description": "Dronejack is a node web-based application to take control of a Parrot drone.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-06-09T13:42:31Z",
-            "owner": "brospars",
-            "repo": "wic-ter-dronejack",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Parrot"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DroneSploit",
-          "description": "Drone pentesting framework console.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-23T13:13:00Z",
-            "owner": "dronesploit",
-            "repo": "dronesploit",
-            "stars": 1998
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Drone-Hacking-Tool",
-          "description": "Drone Hacking Tool is a GUI tool that works with a USB Wifi adapter and HackRF One for hacking drones.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-11-25T07:19:57Z",
-            "owner": "HKSSY",
-            "repo": "Drone-Hacking-Tool",
-            "stars": 691
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Snoopy",
-          "description": "A distributed tracking and data interception framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2012-12-07T13:18:27Z",
-            "owner": "sensepost",
-            "repo": "Snoopy",
-            "stars": 613
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Drone Duel",
-          "description": "Code used in the Great Drone Duel of 2016.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-06-13T20:59:30Z",
-            "owner": "marcnewlin",
-            "repo": "drone-duel",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1292,6 +1382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89297142,
             "language": null,
             "last_commit": "2021-05-08T12:58:20Z",
             "owner": "o-gs",
@@ -1306,6 +1397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116319914,
             "language": null,
             "last_commit": "2018-01-05T00:35:11Z",
             "owner": "o-gs",
@@ -1317,7 +1409,7 @@
       "title": "🔍 OSINT & Intelligence"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1326,11 +1418,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5298790,
             "language": "C++",
-            "last_commit": "2026-08-19T03:05:09Z",
+            "last_commit": "2026-08-19T11:31:09Z",
             "owner": "PX4",
             "repo": "PX4-Autopilot",
-            "stars": 12446
+            "stars": 12449
           }
         },
         {
@@ -1340,11 +1433,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2567844,
             "language": "C++",
             "last_commit": "2026-08-18T21:12:12Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4854
+            "stars": 4856
           }
         },
         {
@@ -1354,23 +1448,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 778163871,
             "language": "Python",
-            "last_commit": "2026-08-17T20:41:44Z",
+            "last_commit": "2026-08-19T04:10:06Z",
             "owner": "ArduPilot",
             "repo": "MethodicConfigurator",
-            "stars": 150
+            "stars": 151
           }
         }
       ],
       "title": "📣 Vulnerability Disclosure Programs"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Who to Follow"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1379,11 +1469,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 531177089,
             "language": null,
             "last_commit": "2026-03-06T11:49:48Z",
             "owner": "Matthias84",
             "repo": "awesome-flying-fpv",
-            "stars": 688
+            "stars": 687
           }
         },
         {
@@ -1393,6 +1484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120960785,
             "language": null,
             "last_commit": "2026-08-17T06:44:02Z",
             "owner": "janesmae",
@@ -1402,16 +1494,12 @@
         }
       ],
       "title": "Additional Resources"
-    },
-    {
-      "description": "This repository is for educational and research purposes only. Users are responsible for complying with all applicable laws and regulations. The maintainers do not endorse or encourage any illegal activities.",
-      "items": [],
-      "title": "⚖️ Legal Notice"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:33:49.865Z",
+    "last_updated": "2026-08-19T12:06:42.700Z",
     "original_repository": "nicholasaleks/Awesome-Drone-Hacking",
+    "original_repository_id": 1003900318,
     "original_repository_sha": "ea42da6adb0bbab05e1ff21fa74b1ffdf06c5f5d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Drone-Hacking",
     "enhanced_repository_description": null,
