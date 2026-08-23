@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 189044704,
                 "language": "C",
-                "last_commit": "2026-08-21T12:02:30Z",
+                "last_commit": "2026-08-22T06:58:17Z",
                 "owner": "AFLplusplus",
                 "repo": "AFLplusplus",
-                "stars": 6730
+                "stars": 6731
               }
             },
             {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-21T12:15:08Z",
             "owner": "greatscottgadgets",
             "repo": "hackrf",
-            "stars": 8047
+            "stars": 8050
           }
         },
         {
@@ -183,7 +183,7 @@
             "last_commit": "2026-08-20T19:01:26Z",
             "owner": "gnuradio",
             "repo": "gnuradio",
-            "stars": 6229
+            "stars": 6230
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 41646286,
             "language": "C++",
-            "last_commit": "2026-08-19T18:29:25Z",
+            "last_commit": "2026-08-22T13:55:16Z",
             "owner": "f4exb",
             "repo": "sdrangel",
-            "stars": 3922
+            "stars": 3926
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-06T20:55:38Z",
             "owner": "gqrx-sdr",
             "repo": "gqrx",
-            "stars": 3656
+            "stars": 3658
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-03-19T15:58:24Z",
             "owner": "greatscottgadgets",
             "repo": "ubertooth",
-            "stars": 2121
+            "stars": 2123
           }
         },
         {
@@ -296,7 +296,7 @@
                 "last_commit": "2026-08-13T13:47:49Z",
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19836
+                "stars": 19845
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2024-02-21T17:07:53Z",
                 "owner": "sheaivey",
                 "repo": "rx5808-pro-diversity",
-                "stars": 746
+                "stars": 747
               }
             },
             {
@@ -412,7 +412,7 @@
                 "last_commit": "2024-10-23T16:48:32Z",
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2217
+                "stars": 2218
               }
             },
             {
@@ -427,7 +427,7 @@
                 "last_commit": "2026-07-23T16:33:58Z",
                 "owner": "P1sec",
                 "repo": "QCSuper",
-                "stars": 1640
+                "stars": 1641
               }
             },
             {
@@ -570,10 +570,10 @@
             "archived": false,
             "id": 2195723,
             "language": "Python",
-            "last_commit": "2026-08-20T06:42:29Z",
+            "last_commit": "2026-08-23T02:32:00Z",
             "owner": "mavlink",
             "repo": "mavlink",
-            "stars": 2400
+            "stars": 2401
           }
         },
         {
@@ -585,7 +585,7 @@
             "archived": false,
             "id": 15189073,
             "language": "C++",
-            "last_commit": "2026-08-21T06:57:56Z",
+            "last_commit": "2026-08-22T11:11:40Z",
             "owner": "mavlink",
             "repo": "mavros",
             "stars": 1212
@@ -673,10 +673,10 @@
             "archived": false,
             "id": 37060852,
             "language": "C",
-            "last_commit": "2026-08-21T21:08:18Z",
+            "last_commit": "2026-08-22T21:27:50Z",
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11441
+            "stars": 11443
           }
         },
         {
@@ -688,10 +688,10 @@
             "archived": false,
             "id": 32148604,
             "language": "C",
-            "last_commit": "2026-08-21T04:35:56Z",
+            "last_commit": "2026-08-22T23:40:09Z",
             "owner": "iNavFlight",
             "repo": "inav",
-            "stars": 4187
+            "stars": 4189
           }
         },
         {
@@ -708,7 +708,7 @@
                 "last_commit": "2026-08-20T13:07:30Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72640
+                "stars": 72678
               }
             },
             {
@@ -720,10 +720,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-22T03:24:30Z",
+                "last_commit": "2026-08-22T19:35:45Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24615
+                "stars": 24620
               }
             },
             {
@@ -738,7 +738,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14252
+                "stars": 14254
               }
             },
             {
@@ -750,10 +750,10 @@
                 "archived": false,
                 "id": 290152313,
                 "language": "Shell",
-                "last_commit": "2026-08-18T19:37:49Z",
+                "last_commit": "2026-08-22T16:59:57Z",
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3599
+                "stars": 3603
               }
             },
             {
@@ -768,7 +768,7 @@
                 "last_commit": "2026-08-20T09:29:19Z",
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1350
+                "stars": 1349
               }
             },
             {
@@ -850,7 +850,7 @@
                 "last_commit": "2026-07-21T10:32:06Z",
                 "owner": "o-gs",
                 "repo": "dji-firmware-tools",
-                "stars": 2179
+                "stars": 2180
               }
             },
             {
@@ -1000,10 +1000,10 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-21T19:57:41Z",
+            "last_commit": "2026-08-23T00:15:28Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4859
+            "stars": 4861
           }
         },
         {
@@ -1015,7 +1015,7 @@
             "archived": false,
             "id": 4198043,
             "language": "Python",
-            "last_commit": "2026-08-22T01:42:16Z",
+            "last_commit": "2026-08-22T06:51:44Z",
             "owner": "ArduPilot",
             "repo": "MAVProxy",
             "stars": 591
@@ -1036,10 +1036,10 @@
             "archived": false,
             "id": 3766706,
             "language": "Java",
-            "last_commit": "2026-08-11T01:05:33Z",
+            "last_commit": "2026-08-22T13:51:42Z",
             "owner": "iBotPeaches",
             "repo": "Apktool",
-            "stars": 25337
+            "stars": 25345
           }
         },
         {
@@ -1069,7 +1069,7 @@
             "last_commit": "2024-07-21T06:08:25Z",
             "owner": "pxb1988",
             "repo": "dex2jar",
-            "stars": 13132
+            "stars": 13134
           }
         },
         {
@@ -1084,7 +1084,7 @@
             "last_commit": "2026-08-13T17:59:02Z",
             "owner": "androguard",
             "repo": "androguard",
-            "stars": 6201
+            "stars": 6202
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2024-08-18T20:56:06Z",
             "owner": "ASHWIN990",
             "repo": "ADB-Toolkit",
-            "stars": 2015
+            "stars": 2016
           }
         },
         {
@@ -1137,7 +1137,7 @@
                 "last_commit": "2023-03-10T12:58:04Z",
                 "owner": "RUB-SysSec",
                 "repo": "DroneSecurity",
-                "stars": 1307
+                "stars": 1309
               }
             },
             {
@@ -1152,7 +1152,7 @@
                 "last_commit": "2024-05-27T13:40:02Z",
                 "owner": "proto17",
                 "repo": "dji_droneid",
-                "stars": 536
+                "stars": 537
               }
             },
             {
@@ -1420,10 +1420,10 @@
             "archived": false,
             "id": 5298790,
             "language": "C++",
-            "last_commit": "2026-08-22T00:09:58Z",
+            "last_commit": "2026-08-23T00:11:16Z",
             "owner": "PX4",
             "repo": "PX4-Autopilot",
-            "stars": 12460
+            "stars": 12468
           }
         },
         {
@@ -1435,10 +1435,10 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-21T19:57:41Z",
+            "last_commit": "2026-08-23T00:15:28Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4859
+            "stars": 4861
           }
         },
         {
@@ -1450,10 +1450,10 @@
             "archived": false,
             "id": 778163871,
             "language": "Python",
-            "last_commit": "2026-08-21T18:31:23Z",
+            "last_commit": "2026-08-22T14:44:57Z",
             "owner": "ArduPilot",
             "repo": "MethodicConfigurator",
-            "stars": 152
+            "stars": 153
           }
         }
       ],
@@ -1489,7 +1489,7 @@
             "last_commit": "2026-08-17T06:44:02Z",
             "owner": "janesmae",
             "repo": "awesome-drones",
-            "stars": 630
+            "stars": 631
           }
         }
       ],
@@ -1497,7 +1497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:28:59.001Z",
+    "last_updated": "2026-08-23T03:37:36.846Z",
     "original_repository": "nicholasaleks/Awesome-Drone-Hacking",
     "original_repository_id": 1003900318,
     "original_repository_sha": "ea42da6adb0bbab05e1ff21fa74b1ffdf06c5f5d",
