@@ -70,10 +70,10 @@
             "archived": false,
             "id": 95903234,
             "language": "RobotFramework",
-            "last_commit": "2026-08-27T08:32:01Z",
+            "last_commit": "2026-08-27T12:38:44Z",
             "owner": "renode",
             "repo": "renode",
-            "stars": 2770
+            "stars": 2771
           }
         }
       ],
@@ -96,7 +96,7 @@
                 "last_commit": "2026-08-26T14:02:50Z",
                 "owner": "GlasgowEmbedded",
                 "repo": "glasgow",
-                "stars": 2202
+                "stars": 2201
               }
             }
           ],
@@ -229,7 +229,7 @@
             "archived": false,
             "id": 3030065,
             "language": "C++",
-            "last_commit": "2026-08-27T10:23:55Z",
+            "last_commit": "2026-08-27T11:50:23Z",
             "owner": "gnuradio",
             "repo": "gnuradio",
             "stars": 6238
@@ -262,7 +262,7 @@
             "last_commit": "2026-08-06T20:55:38Z",
             "owner": "gqrx-sdr",
             "repo": "gqrx",
-            "stars": 3663
+            "stars": 3664
           }
         },
         {
@@ -345,7 +345,7 @@
                 "last_commit": "2026-08-13T13:47:49Z",
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19865
+                "stars": 19866
               }
             },
             {
@@ -360,7 +360,7 @@
                 "last_commit": "2026-05-22T17:42:02Z",
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14790
+                "stars": 14791
               }
             },
             {
@@ -823,7 +823,7 @@
                 "last_commit": "2026-08-25T16:51:31Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72924
+                "stars": 72935
               }
             },
             {
@@ -835,10 +835,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-27T08:56:54Z",
+                "last_commit": "2026-08-27T12:23:31Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24656
+                "stars": 24660
               }
             },
             {
@@ -977,7 +977,7 @@
                 "archived": false,
                 "id": 1474948,
                 "language": "C",
-                "last_commit": "2026-08-17T16:05:36Z",
+                "last_commit": "2026-08-27T12:47:23Z",
                 "owner": "flashrom",
                 "repo": "flashrom",
                 "stars": 1170
@@ -995,7 +995,7 @@
                 "last_commit": "2026-02-17T15:27:22Z",
                 "owner": "rampageX",
                 "repo": "firmware-mod-kit",
-                "stars": 1000
+                "stars": 1001
               }
             },
             {
@@ -1154,7 +1154,7 @@
             "last_commit": "2026-08-26T10:30:33Z",
             "owner": "iBotPeaches",
             "repo": "Apktool",
-            "stars": 25388
+            "stars": 25389
           }
         },
         {
@@ -1535,7 +1535,7 @@
             "archived": false,
             "id": 5298790,
             "language": "C++",
-            "last_commit": "2026-08-27T11:18:56Z",
+            "last_commit": "2026-08-27T12:45:27Z",
             "owner": "PX4",
             "repo": "PX4-Autopilot",
             "stars": 12504
@@ -1612,7 +1612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:42.869Z",
+    "last_updated": "2026-08-27T13:07:45.409Z",
     "original_repository_info": {
       "archived": false,
       "id": 1003900318,
