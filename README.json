@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 189044704,
                 "language": "C",
-                "last_commit": "2026-08-26T14:41:28Z",
+                "last_commit": "2026-08-28T09:30:22Z",
                 "owner": "AFLplusplus",
                 "repo": "AFLplusplus",
-                "stars": 6736
-              }
+                "stars": 6735
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "avatartwo",
                 "repo": "avatar2",
                 "stars": 576
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "fuzzware-fuzzer",
                 "repo": "fuzzware",
                 "stars": 380
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -73,8 +76,9 @@
             "last_commit": "2026-08-27T12:38:44Z",
             "owner": "renode",
             "repo": "renode",
-            "stars": 2771
-          }
+            "stars": 2788
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         }
       ],
       "title": "Emulators"
@@ -93,11 +97,12 @@
                 "archived": false,
                 "id": 118316091,
                 "language": "Python",
-                "last_commit": "2026-08-26T14:02:50Z",
+                "last_commit": "2026-08-28T14:00:04Z",
                 "owner": "GlasgowEmbedded",
                 "repo": "glasgow",
-                "stars": 2201
-              }
+                "stars": 2202
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -125,7 +130,8 @@
                 "owner": "jjshoots",
                 "repo": "RemoteIDSpoofer",
                 "stars": 562
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -136,11 +142,12 @@
                 "archived": false,
                 "id": 890610300,
                 "language": "Swift",
-                "last_commit": "2026-08-19T20:16:14Z",
-                "owner": "Root-Down-Digital",
+                "last_commit": "2026-08-27T20:01:30Z",
+                "owner": "lukeswitz",
                 "repo": "DragonSync-iOS",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -155,7 +162,8 @@
                 "owner": "sxjack",
                 "repo": "unix_rid_capture",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -177,7 +185,8 @@
                 "owner": "nicholasaleks",
                 "repo": "sikw00f",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -192,7 +201,8 @@
                 "owner": "MAVProxyUser",
                 "repo": "SiKening",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -214,11 +224,12 @@
             "archived": false,
             "id": 3681392,
             "language": "C",
-            "last_commit": "2026-08-21T12:15:08Z",
+            "last_commit": "2026-08-28T14:27:32Z",
             "owner": "greatscottgadgets",
             "repo": "hackrf",
-            "stars": 8058
-          }
+            "stars": 8059
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -229,11 +240,12 @@
             "archived": false,
             "id": 3030065,
             "language": "C++",
-            "last_commit": "2026-08-27T11:50:23Z",
+            "last_commit": "2026-08-27T23:02:01Z",
             "owner": "gnuradio",
             "repo": "gnuradio",
-            "stars": 6238
-          }
+            "stars": 6239
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -247,8 +259,9 @@
             "last_commit": "2026-08-23T21:25:54Z",
             "owner": "f4exb",
             "repo": "sdrangel",
-            "stars": 3937
-          }
+            "stars": 3943
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -262,8 +275,9 @@
             "last_commit": "2026-08-06T20:55:38Z",
             "owner": "gqrx-sdr",
             "repo": "gqrx",
-            "stars": 3664
-          }
+            "stars": 3665
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -277,8 +291,9 @@
             "last_commit": "2026-02-11T18:28:43Z",
             "owner": "BatchDrake",
             "repo": "SigDigger",
-            "stars": 2877
-          }
+            "stars": 2878
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -293,7 +308,8 @@
             "owner": "greatscottgadgets",
             "repo": "ubertooth",
             "stars": 2126
-          }
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -308,7 +324,8 @@
             "owner": "riverloopsec",
             "repo": "killerbee",
             "stars": 849
-          }
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -323,7 +340,8 @@
             "owner": "BishopFox",
             "repo": "zigdiggity",
             "stars": 298
-          }
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         }
       ],
       "title": "Misc RF Tools"
@@ -345,8 +363,9 @@
                 "last_commit": "2026-08-13T13:47:49Z",
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19866
-              }
+                "stars": 19870
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -360,8 +379,9 @@
                 "last_commit": "2026-05-22T17:42:02Z",
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14791
-              }
+                "stars": 14792
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -376,7 +396,8 @@
                 "owner": "Ordina-JTech",
                 "repo": "hack-a-drone",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -394,11 +415,12 @@
                 "archived": false,
                 "id": 78682352,
                 "language": "Python",
-                "last_commit": "2026-08-20T20:00:23Z",
+                "last_commit": "2026-08-27T14:22:39Z",
                 "owner": "svpcom",
                 "repo": "wfb-ng",
-                "stars": 1517
-              }
+                "stars": 1518
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -426,7 +448,8 @@
                 "owner": "sheaivey",
                 "repo": "rx5808-pro-diversity",
                 "stars": 747
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -441,7 +464,8 @@
                 "owner": "linuxuser2064",
                 "repo": "TVSharper",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -456,7 +480,8 @@
                 "owner": "Payalo64",
                 "repo": "FPV_DETECTED_1.2_5.8GHZ",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -478,7 +503,8 @@
                 "owner": "fsphil",
                 "repo": "hacktv",
                 "stars": 910
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -505,8 +531,9 @@
                 "last_commit": "2024-10-23T16:48:32Z",
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2219
-              }
+                "stars": 2220
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -521,7 +548,8 @@
                 "owner": "P1sec",
                 "repo": "QCSuper",
                 "stars": 1643
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -536,7 +564,8 @@
                 "owner": "ptrkrysik",
                 "repo": "gr-gsm",
                 "stars": 1494
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -551,7 +580,8 @@
                 "owner": "Evrytania",
                 "repo": "LTE-Cell-Scanner",
                 "stars": 670
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -566,7 +596,8 @@
                 "owner": "falkenber9",
                 "repo": "falcon",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -581,7 +612,8 @@
                 "owner": "scateu",
                 "repo": "kalibrate-hackrf",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -596,7 +628,8 @@
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -611,7 +644,8 @@
                 "owner": "Synacktiv-contrib",
                 "repo": "Modmobmap",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -626,7 +660,8 @@
                 "owner": "Synacktiv-contrib",
                 "repo": "Modmobjam",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -641,7 +676,8 @@
                 "owner": "korczis",
                 "repo": "osmocom-bb",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -663,7 +699,8 @@
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -688,8 +725,9 @@
             "last_commit": "2026-08-27T09:38:54Z",
             "owner": "mavlink",
             "repo": "mavlink",
-            "stars": 2407
-          }
+            "stars": 2406
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -700,11 +738,12 @@
             "archived": false,
             "id": 15189073,
             "language": "C++",
-            "last_commit": "2026-08-24T08:00:03Z",
+            "last_commit": "2026-08-28T03:44:51Z",
             "owner": "mavlink",
             "repo": "mavros",
             "stars": 1217
-          }
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -718,8 +757,9 @@
             "last_commit": "2026-08-26T03:17:02Z",
             "owner": "mavlink",
             "repo": "MAVSDK",
-            "stars": 927
-          }
+            "stars": 928
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -733,8 +773,9 @@
             "last_commit": "2026-07-13T06:32:59Z",
             "owner": "mavlink-router",
             "repo": "mavlink-router",
-            "stars": 612
-          }
+            "stars": 613
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "children": [
@@ -751,7 +792,8 @@
                 "owner": "aliasrobotics",
                 "repo": "aztarna",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -766,7 +808,8 @@
                 "owner": "Rud3m",
                 "repo": "MavSploit",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -788,11 +831,12 @@
             "archived": false,
             "id": 37060852,
             "language": "C",
-            "last_commit": "2026-08-26T20:25:08Z",
+            "last_commit": "2026-08-28T12:45:10Z",
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11468
-          }
+            "stars": 11472
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -803,11 +847,12 @@
             "archived": false,
             "id": 32148604,
             "language": "C",
-            "last_commit": "2026-08-27T00:39:19Z",
+            "last_commit": "2026-08-27T19:49:36Z",
             "owner": "iNavFlight",
             "repo": "inav",
-            "stars": 4201
-          }
+            "stars": 4203
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "children": [
@@ -820,11 +865,12 @@
                 "archived": false,
                 "id": 173228436,
                 "language": "Java",
-                "last_commit": "2026-08-25T16:51:31Z",
+                "last_commit": "2026-08-28T13:31:09Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72935
-              }
+                "stars": 73178
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -835,11 +881,12 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-27T12:23:31Z",
+                "last_commit": "2026-08-28T14:13:27Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24660
-              }
+                "stars": 24671
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -853,8 +900,9 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14277
-              }
+                "stars": 14282
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -865,11 +913,12 @@
                 "archived": false,
                 "id": 290152313,
                 "language": "Shell",
-                "last_commit": "2026-08-25T10:28:35Z",
+                "last_commit": "2026-08-27T14:54:46Z",
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3615
-              }
+                "stars": 3617
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -883,8 +932,9 @@
                 "last_commit": "2026-08-20T09:29:19Z",
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1352
-              }
+                "stars": 1353
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -899,7 +949,8 @@
                 "owner": "craigz28",
                 "repo": "firmwalker",
                 "stars": 1225
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -914,7 +965,8 @@
                 "owner": "cyphunk",
                 "repo": "JTAGenum",
                 "stars": 799
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -929,7 +981,8 @@
                 "owner": "ChrisTheCoolHut",
                 "repo": "Firmware_Slap",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -944,7 +997,8 @@
                 "owner": "CERTCC",
                 "repo": "trommel",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -965,8 +1019,9 @@
                 "last_commit": "2026-07-21T10:32:06Z",
                 "owner": "o-gs",
                 "repo": "dji-firmware-tools",
-                "stars": 2186
-              }
+                "stars": 2188
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -977,11 +1032,12 @@
                 "archived": false,
                 "id": 1474948,
                 "language": "C",
-                "last_commit": "2026-08-27T12:47:23Z",
+                "last_commit": "2026-08-28T13:17:23Z",
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1170
-              }
+                "stars": 1171
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -995,8 +1051,9 @@
                 "last_commit": "2026-02-17T15:27:22Z",
                 "owner": "rampageX",
                 "repo": "firmware-mod-kit",
-                "stars": 1001
-              }
+                "stars": 1000
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1011,7 +1068,8 @@
                 "owner": "Samsung",
                 "repo": "cotopaxi",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1026,7 +1084,8 @@
                 "owner": "ohjeongwook",
                 "repo": "dumpflash",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1041,7 +1100,8 @@
                 "owner": "chrivers",
                 "repo": "samsung-firmware-magic",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1056,7 +1116,8 @@
                 "owner": "fkie-cad",
                 "repo": "fact_extractor",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -1078,7 +1139,8 @@
                 "owner": "o-gs",
                 "repo": "DJI_FC_Patcher",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1093,7 +1155,8 @@
                 "owner": "ArduPilot",
                 "repo": "waf",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -1115,11 +1178,12 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-27T01:05:26Z",
+            "last_commit": "2026-08-27T20:44:51Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4873
-          }
+            "stars": 4876
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -1134,7 +1198,8 @@
             "owner": "ArduPilot",
             "repo": "MAVProxy",
             "stars": 592
-          }
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         }
       ],
       "title": "🛫 Ground Control Stations"
@@ -1154,8 +1219,9 @@
             "last_commit": "2026-08-26T10:30:33Z",
             "owner": "iBotPeaches",
             "repo": "Apktool",
-            "stars": 25389
-          }
+            "stars": 25400
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -1169,8 +1235,9 @@
             "last_commit": "2026-08-27T04:55:25Z",
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21656
-          }
+            "stars": 21660
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -1184,8 +1251,9 @@
             "last_commit": "2024-07-21T06:08:25Z",
             "owner": "pxb1988",
             "repo": "dex2jar",
-            "stars": 13135
-          }
+            "stars": 13136
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -1199,8 +1267,9 @@
             "last_commit": "2026-08-13T17:59:02Z",
             "owner": "androguard",
             "repo": "androguard",
-            "stars": 6209
-          }
+            "stars": 6211
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -1215,7 +1284,8 @@
             "owner": "ASHWIN990",
             "repo": "ADB-Toolkit",
             "stars": 2016
-          }
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -1230,7 +1300,8 @@
             "owner": "Storyyeller",
             "repo": "enjarify",
             "stars": 953
-          }
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         }
       ],
       "title": "📱 Mobile GCS Apps"
@@ -1253,7 +1324,8 @@
                 "owner": "RUB-SysSec",
                 "repo": "DroneSecurity",
                 "stars": 1309
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1267,8 +1339,9 @@
                 "last_commit": "2024-05-27T13:40:02Z",
                 "owner": "proto17",
                 "repo": "dji_droneid",
-                "stars": 537
-              }
+                "stars": 538
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1283,7 +1356,8 @@
                 "owner": "Bin4ry",
                 "repo": "deejayeye-modder",
                 "stars": 397
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1298,7 +1372,8 @@
                 "owner": "ANG13T",
                 "repo": "DroneXtract",
                 "stars": 363
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1313,7 +1388,8 @@
                 "owner": "fvantienen",
                 "repo": "dji_rev",
                 "stars": 318
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1328,7 +1404,8 @@
                 "owner": "jezzab",
                 "repo": "DUMLdore",
                 "stars": 315
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1343,7 +1420,8 @@
                 "owner": "MAVProxyUser",
                 "repo": "P0VsRedHerring",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1358,7 +1436,8 @@
                 "owner": "hdnes",
                 "repo": "pyduml",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1373,7 +1452,8 @@
                 "owner": "MAVProxyUser",
                 "repo": "DUMLrub",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -1394,8 +1474,9 @@
                 "last_commit": "2017-11-21T06:25:52Z",
                 "owner": "samyk",
                 "repo": "skyjack",
-                "stars": 1831
-              }
+                "stars": 1829
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1410,7 +1491,8 @@
                 "owner": "brospars",
                 "repo": "wic-ter-dronejack",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -1432,7 +1514,8 @@
                 "owner": "dronesploit",
                 "repo": "dronesploit",
                 "stars": 2164
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1447,7 +1530,8 @@
                 "owner": "HKSSY",
                 "repo": "Drone-Hacking-Tool",
                 "stars": 693
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1462,7 +1546,8 @@
                 "owner": "sensepost",
                 "repo": "Snoopy",
                 "stars": 613
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             },
             {
               "node_type": "item",
@@ -1477,7 +1562,8 @@
                 "owner": "marcnewlin",
                 "repo": "drone-duel",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T14:36:41.666Z"
             }
           ],
           "description": null,
@@ -1503,7 +1589,8 @@
             "owner": "o-gs",
             "repo": "dji-hardware-schematics",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -1518,7 +1605,8 @@
             "owner": "o-gs",
             "repo": "dji-packet-dumps",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         }
       ],
       "title": "🔍 OSINT & Intelligence"
@@ -1535,11 +1623,12 @@
             "archived": false,
             "id": 5298790,
             "language": "C++",
-            "last_commit": "2026-08-27T12:45:27Z",
+            "last_commit": "2026-08-28T14:27:52Z",
             "owner": "PX4",
             "repo": "PX4-Autopilot",
-            "stars": 12504
-          }
+            "stars": 12507
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -1550,11 +1639,12 @@
             "archived": false,
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-27T01:05:26Z",
+            "last_commit": "2026-08-27T20:44:51Z",
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4873
-          }
+            "stars": 4876
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -1565,11 +1655,12 @@
             "archived": false,
             "id": 778163871,
             "language": "Python",
-            "last_commit": "2026-08-27T11:09:49Z",
+            "last_commit": "2026-08-28T13:33:11Z",
             "owner": "ArduPilot",
             "repo": "MethodicConfigurator",
-            "stars": 154
-          }
+            "stars": 155
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         }
       ],
       "title": "📣 Vulnerability Disclosure Programs"
@@ -1590,7 +1681,8 @@
             "owner": "Matthias84",
             "repo": "awesome-flying-fpv",
             "stars": 694
-          }
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         },
         {
           "node_type": "item",
@@ -1604,15 +1696,16 @@
             "last_commit": "2026-08-17T06:44:02Z",
             "owner": "janesmae",
             "repo": "awesome-drones",
-            "stars": 636
-          }
+            "stars": 635
+          },
+          "first_seen": "2026-08-28T14:36:41.666Z"
         }
       ],
       "title": "Additional Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:07:45.409Z",
+    "last_updated": "2026-08-28T14:36:41.666Z",
     "original_repository_info": {
       "archived": false,
       "id": 1003900318,
