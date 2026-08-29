@@ -12,12 +12,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+                "homepage": "https://aflplus.plus",
                 "id": 189044704,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T09:30:22Z",
+                "open_issues": 22,
                 "owner": "AFLplusplus",
                 "repo": "AFLplusplus",
-                "stars": 6735
+                "stars": 6737,
+                "topics": [
+                  "afl",
+                  "afl-compiler",
+                  "afl-fuzz",
+                  "afl-fuzzer",
+                  "afl-gcc",
+                  "fuzz-testing",
+                  "fuzzer",
+                  "fuzzer-afl",
+                  "fuzzing",
+                  "instrumentation",
+                  "qemu",
+                  "security",
+                  "testing",
+                  "unicorn-emulator",
+                  "unicorn-mode"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -28,12 +49,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python core of avatar²",
+                "homepage": null,
                 "id": 94234201,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-31T20:51:49Z",
+                "open_issues": 27,
                 "owner": "avatartwo",
                 "repo": "avatar2",
-                "stars": 576
+                "stars": 576,
+                "topics": [
+                  "binary-analysis",
+                  "embedded-systems",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -44,12 +74,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fuzzware's main repository. Start here to install.",
+                "homepage": null,
                 "id": 449267455,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-27T07:50:04Z",
+                "open_issues": 15,
                 "owner": "fuzzware-fuzzer",
                 "repo": "fuzzware",
-                "stars": 380
+                "stars": 380,
+                "topics": [
+                  "embedded",
+                  "embedded-systems",
+                  "firmware",
+                  "fuzzing"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -71,12 +111,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems",
+            "homepage": "https://renode.io",
             "id": 95903234,
             "language": "RobotFramework",
-            "last_commit": "2026-08-27T12:38:44Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T18:08:29Z",
+            "open_issues": 429,
             "owner": "renode",
             "repo": "renode",
-            "stars": 2788
+            "stars": 2790,
+            "topics": [
+              "arm",
+              "embedded-systems",
+              "iot",
+              "renode",
+              "risc-v",
+              "simulation",
+              "x86"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         }
@@ -95,12 +148,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scots Army Knife for electronics",
+                "homepage": "https://glasgow-embedded.org/",
                 "id": 118316091,
                 "language": "Python",
-                "last_commit": "2026-08-28T14:00:04Z",
+                "license": "0BSD",
+                "last_commit": "2026-08-29T00:50:42Z",
+                "open_issues": 80,
                 "owner": "GlasgowEmbedded",
                 "repo": "glasgow",
-                "stars": 2202
+                "stars": 2202,
+                "topics": [
+                  "debugging-tool",
+                  "fpga",
+                  "glasgow-interface-explorer",
+                  "hardware"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -124,12 +187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NodeMCU RemoteID Spoofer",
+                "homepage": null,
                 "id": 644596337,
                 "language": "C",
+                "license": "WTFPL",
                 "last_commit": "2025-09-26T10:44:47Z",
+                "open_issues": 2,
                 "owner": "jjshoots",
                 "repo": "RemoteIDSpoofer",
-                "stars": 562
+                "stars": 562,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -140,12 +208,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iOS WarDragon Utility App",
+                "homepage": null,
                 "id": 890610300,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T20:01:30Z",
+                "open_issues": 0,
                 "owner": "lukeswitz",
                 "repo": "DragonSync-iOS",
-                "stars": 272
+                "stars": 272,
+                "topics": [
+                  "ads-b",
+                  "detection",
+                  "drone",
+                  "esp32",
+                  "ios",
+                  "macos",
+                  "sdr",
+                  "sigint",
+                  "swift",
+                  "wardragon"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -156,12 +240,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A program that captures ASTM F3411 / ASD-STAN 4709-002 UAV direct remote identification signals transmitted over WiFi and Bluetooth.",
+                "homepage": null,
                 "id": 570813249,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2023-04-20T15:20:17Z",
+                "open_issues": 9,
                 "owner": "sxjack",
                 "repo": "unix_rid_capture",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "astm-f3411",
+                  "en-4709-002",
+                  "rid",
+                  "uav"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -179,12 +273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Drone SiK Radio Detection & MAVLink Telemetry Eavesdropping Toolkit.",
+                "homepage": null,
                 "id": 906071397,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-03T19:15:25Z",
+                "open_issues": 0,
                 "owner": "nicholasaleks",
                 "repo": "sikw00f",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -195,12 +294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3DR Radio SiKening PoC by Meatball Ninja - Brute force 3DR NetID and sync up with hopping sequence. ",
+                "homepage": null,
                 "id": 43091228,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2015-09-28T15:13:59Z",
+                "open_issues": 0,
                 "owner": "MAVProxyUser",
                 "repo": "SiKening",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -222,12 +326,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "low cost software radio platform",
+            "homepage": "https://greatscottgadgets.com/hackrf/",
             "id": 3681392,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T14:27:32Z",
+            "open_issues": 83,
             "owner": "greatscottgadgets",
             "repo": "hackrf",
-            "stars": 8059
+            "stars": 8060,
+            "topics": [
+              "hackrf",
+              "hardware",
+              "radio",
+              "rf",
+              "sdr"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -238,12 +353,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GNU Radio – the Free and Open Software Radio Ecosystem",
+            "homepage": "https://gnuradio.org",
             "id": 3030065,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T23:02:01Z",
+            "open_issues": 597,
             "owner": "gnuradio",
             "repo": "gnuradio",
-            "stars": 6239
+            "stars": 6240,
+            "topics": [
+              "c-plus-plus",
+              "cybersecurity",
+              "dsp",
+              "flowgraph",
+              "gnu",
+              "gnuradio",
+              "python",
+              "radio",
+              "sdr",
+              "wireless"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -254,12 +385,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube",
+            "homepage": null,
             "id": 41646286,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T21:25:54Z",
+            "open_issues": 90,
             "owner": "f4exb",
             "repo": "sdrangel",
-            "stars": 3943
+            "stars": 3945,
+            "topics": [
+              "airspy",
+              "airspyhf",
+              "bladerf",
+              "d-star",
+              "dmr",
+              "dpmr",
+              "funcube",
+              "funcube-dongle",
+              "hackrf",
+              "limesdr",
+              "plutosdr",
+              "receiver",
+              "rtl-sdr",
+              "sdr",
+              "sdrplay",
+              "transmitter",
+              "ysf"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -270,12 +424,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software defined radio receiver powered by GNU Radio and Qt.",
+            "homepage": "http://gqrx.dk",
             "id": 1033271,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-06T20:55:38Z",
+            "open_issues": 265,
             "owner": "gqrx-sdr",
             "repo": "gqrx",
-            "stars": 3665
+            "stars": 3667,
+            "topics": [
+              "airspy",
+              "fft",
+              "funcube-dongle",
+              "gnuradio",
+              "gqrx",
+              "hackrf",
+              "hacktoberfest",
+              "qt",
+              "receiver",
+              "rfspace",
+              "rtl-sdr",
+              "sdr"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -286,12 +458,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library",
+            "homepage": "https://batchdrake.github.io/SigDigger/",
             "id": 202195438,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2026-02-11T18:28:43Z",
+            "open_issues": 74,
             "owner": "BatchDrake",
             "repo": "SigDigger",
-            "stars": 2878
+            "stars": 2878,
+            "topics": [
+              "ask",
+              "digital-signal-analyzer",
+              "fsk",
+              "gqrx",
+              "linux",
+              "psk",
+              "qt",
+              "sdr",
+              "soapysdr"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -302,12 +489,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software, firmware, and hardware designs for Ubertooth",
+            "homepage": "https://greatscottgadgets.com/ubertoothone/",
             "id": 9712011,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-03-19T15:58:24Z",
+            "open_issues": 53,
             "owner": "greatscottgadgets",
             "repo": "ubertooth",
-            "stars": 2126
+            "stars": 2126,
+            "topics": [
+              "bluetooth",
+              "hardware",
+              "radio",
+              "rf"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -318,12 +515,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IEEE 802.15.4/ZigBee Security Research Toolkit",
+            "homepage": "http://www.riverloopsecurity.com",
             "id": 32794055,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-12T09:39:25Z",
+            "open_issues": 31,
             "owner": "riverloopsec",
             "repo": "killerbee",
-            "stars": 849
+            "stars": 849,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -334,12 +536,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ZigBee hacking toolkit by Bishop Fox",
+            "homepage": "https://www.bishopfox.com/",
             "id": 144425971,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-09-13T19:18:14Z",
+            "open_issues": 7,
             "owner": "BishopFox",
             "repo": "zigdiggity",
-            "stars": 298
+            "stars": 298,
+            "topics": [
+              "iot-security",
+              "pentest-tool",
+              "security-tools",
+              "zigbee",
+              "zigbee-hacking"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         }
@@ -358,12 +571,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+                "homepage": "https://www.bettercap.org/",
                 "id": 116576783,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T13:47:49Z",
+                "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19870
+                "stars": 19872,
+                "topics": [
+                  "ble",
+                  "deauthentication-attack",
+                  "dot11",
+                  "hacking",
+                  "hid",
+                  "mitm",
+                  "monitoring",
+                  "mousejack",
+                  "network-attacks",
+                  "password-sniffer",
+                  "pmkid",
+                  "proxy",
+                  "redteam",
+                  "redteaming",
+                  "rogue-ap",
+                  "security",
+                  "spoofing",
+                  "wifi",
+                  "wifi-security",
+                  "wpa2"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -374,12 +613,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Rogue Access Point Framework",
+                "homepage": "https://wifiphisher.org",
                 "id": 24499174,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-22T17:42:02Z",
+                "open_issues": 353,
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14792
+                "stars": 14793,
+                "topics": [
+                  "access-point",
+                  "attack",
+                  "malware",
+                  "phishing",
+                  "python",
+                  "redteaming",
+                  "rogue",
+                  "security",
+                  "wifi",
+                  "wifiphisher"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -390,12 +645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hack a Drone",
+                "homepage": "https://ordina-jtech.github.io/hack-a-drone",
                 "id": 91571521,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-02-06T11:10:59Z",
+                "open_issues": 1,
                 "owner": "Ordina-JTech",
                 "repo": "hack-a-drone",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -413,12 +673,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WFB-NG - the next generation of long-range packet radio link based on raw WiFi radio",
+                "homepage": "https://docs.px4.io/main/en/companion_computer/video_streaming_wfb_ng_wifi.html",
                 "id": 78682352,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T14:22:39Z",
+                "open_issues": 23,
                 "owner": "svpcom",
                 "repo": "wfb-ng",
-                "stars": 1518
+                "stars": 1519,
+                "topics": [
+                  "camera",
+                  "fpv",
+                  "mavlink",
+                  "px4",
+                  "raspberry-pi",
+                  "rtp",
+                  "telemetry",
+                  "video",
+                  "wfb-ng",
+                  "wifibroadcast"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -442,12 +718,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DIY project to create your own 5.8ghz FPV diversity basestation - based off the rx5808 receiver module. Project includes basic Arduino Nano implementation to advanced custom PCB board and introduction to digital switches 4066 chip.",
+                "homepage": "http://www.laforgefpv.com",
                 "id": 40463057,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-02-21T17:07:53Z",
+                "open_issues": 42,
                 "owner": "sheaivey",
                 "repo": "rx5808-pro-diversity",
-                "stars": 747
+                "stars": 747,
+                "topics": [
+                  "arduino",
+                  "diversity",
+                  "drones",
+                  "fpv",
+                  "oled",
+                  "quadcopters",
+                  "receiver",
+                  "rssi",
+                  "rx5808",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -458,12 +750,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An  analog TV decoder for the RTL-SDR (but sharper)",
+                "homepage": null,
                 "id": 628346947,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2024-03-26T08:51:26Z",
+                "open_issues": 0,
                 "owner": "linuxuser2064",
                 "repo": "TVSharper",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -474,12 +771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 928498328,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-25T22:44:34Z",
+                "open_issues": 0,
                 "owner": "Payalo64",
                 "repo": "FPV_DETECTED_1.2_5.8GHZ",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -497,12 +799,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Analogue TV transmitter for the HackRF",
+                "homepage": null,
                 "id": 92094375,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-31T14:15:56Z",
+                "open_issues": 23,
                 "owner": "fsphil",
                 "repo": "hacktv",
-                "stars": 910
+                "stars": 910,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -526,12 +833,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " An Open-source LTE Downlink/Uplink Eavesdropper",
+                "homepage": null,
                 "id": 626771649,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-10-23T16:48:32Z",
+                "open_issues": 25,
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2220
+                "stars": 2220,
+                "topics": [
+                  "cellular",
+                  "lte",
+                  "sdr",
+                  "sniffer",
+                  "wireless"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -542,12 +860,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things.",
+                "homepage": null,
                 "id": 195964900,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-23T16:33:58Z",
+                "open_issues": 121,
                 "owner": "P1sec",
                 "repo": "QCSuper",
-                "stars": 1643
+                "stars": 1643,
+                "topics": [
+                  "baseband",
+                  "gsm",
+                  "lte",
+                  "pcap",
+                  "qualcomm",
+                  "telecom",
+                  "umts"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -558,12 +889,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gnuradio blocks and tools for receiving GSM transmissions",
+                "homepage": null,
                 "id": 17038637,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-10T11:49:09Z",
+                "open_issues": 163,
                 "owner": "ptrkrysik",
                 "repo": "gr-gsm",
-                "stars": 1494
+                "stars": 1494,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -574,12 +910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LTE SDR cell scanner optimized to work with very low performance RF front ends (8bit A/D, 20dB noise figure)",
+                "homepage": null,
                 "id": 5484443,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2019-02-26T07:05:38Z",
+                "open_issues": 33,
                 "owner": "Evrytania",
                 "repo": "LTE-Cell-Scanner",
-                "stars": 670
+                "stars": 670,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -590,12 +931,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FALCON - Fast Analysis of LTE Control channels",
+                "homepage": null,
                 "id": 184469512,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-10-13T12:50:06Z",
+                "open_issues": 16,
                 "owner": "falkenber9",
                 "repo": "falcon",
-                "stars": 360
+                "stars": 361,
+                "topics": [
+                  "lte",
+                  "sdr",
+                  "srslte",
+                  "usrp",
+                  "wireless"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -606,12 +958,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "kalibrate for hackrf",
+                "homepage": null,
                 "id": 19214902,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2022-03-21T03:06:14Z",
+                "open_issues": 18,
                 "owner": "scateu",
                 "repo": "kalibrate-hackrf",
-                "stars": 306
+                "stars": 306,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -622,12 +979,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 766347854,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-01-22T17:04:13Z",
+                "open_issues": 3,
                 "owner": "SyNSec-den",
                 "repo": "5GBaseChecker",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -638,12 +1000,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Map 2G/3G/4G and more cellular networks in real live with a simple smart phone, pretty much like osmocomBB monitoring feature.",
+                "homepage": null,
                 "id": 137120129,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-24T14:06:59Z",
+                "open_issues": 4,
                 "owner": "Synacktiv-contrib",
                 "repo": "Modmobmap",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -654,12 +1021,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A smart jamming proof of concept for mobile equipments that could be powered with Modmobmap tool",
+                "homepage": null,
                 "id": 142592751,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-05-30T20:03:37Z",
+                "open_issues": 3,
                 "owner": "Synacktiv-contrib",
                 "repo": "Modmobjam",
-                "stars": 104
+                "stars": 104,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -670,12 +1042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of git://git.osmocom.org/osmocom-bb.git - OsmocomBB is an Free Software / Open Source GSM Baseband software implementation.",
+                "homepage": null,
                 "id": 7470187,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-08T12:16:12Z",
+                "open_issues": 1,
                 "owner": "korczis",
                 "repo": "osmocom-bb",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -693,12 +1070,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GSM+GPRS Radio Access Network Node reloaded for 2024-2025 for newest UHD drivers and supporting Ubuntu 22.04 & 24.04",
+                "homepage": null,
                 "id": 585625191,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-29T23:58:26Z",
+                "open_issues": 0,
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "gprs",
+                  "gsm",
+                  "openbts",
+                  "software-defined-radio"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -720,12 +1107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Marshalling / communication library for drones.",
+            "homepage": "http://mavlink.io",
             "id": 2195723,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T09:38:54Z",
+            "open_issues": 118,
             "owner": "mavlink",
             "repo": "mavlink",
-            "stars": 2406
+            "stars": 2406,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -736,12 +1128,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAVLink to ROS gateway with proxy for Ground Control Station",
+            "homepage": null,
             "id": 15189073,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T03:44:51Z",
+            "open_issues": 411,
             "owner": "mavlink",
             "repo": "mavros",
-            "stars": 1217
+            "stars": 1217,
+            "topics": [
+              "mavlink",
+              "mavros",
+              "mavros-msgs",
+              "ros",
+              "ros-node",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -752,12 +1156,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API and library for MAVLink compatible systems written in C++ 20",
+            "homepage": "https://mavsdk.mavlink.io",
             "id": 94815442,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T03:17:02Z",
+            "open_issues": 44,
             "owner": "mavlink",
             "repo": "MAVSDK",
-            "stars": 928
+            "stars": 928,
+            "topics": [
+              "ardupilot",
+              "cpp",
+              "cpp17",
+              "mavlink",
+              "px4"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -768,12 +1183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Route mavlink packets between endpoints",
+            "homepage": null,
             "id": 75330320,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-13T06:32:59Z",
+            "open_issues": 80,
             "owner": "mavlink-router",
             "repo": "mavlink-router",
-            "stars": 613
+            "stars": 613,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -786,12 +1206,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "aztarna, a footprinting tool for robots.",
+                "homepage": "https://cybersecurityrobotics.com/research/aztarna-robot-footprinting/",
                 "id": 145814764,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-14T12:54:42Z",
+                "open_issues": 6,
                 "owner": "aliasrobotics",
                 "repo": "aztarna",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "fingerprinting",
+                  "footprinting",
+                  "ics",
+                  "industrial-robots",
+                  "robotics",
+                  "robots",
+                  "ros",
+                  "ros2",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -802,12 +1237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MavSploit is an advanced penetration testing tool designed specifically for identifying and exploiting vulnerabilities within the MavLink communication protocol.",
+                "homepage": null,
                 "id": 846603706,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-02-11T08:05:46Z",
+                "open_issues": 1,
                 "owner": "Rud3m",
                 "repo": "MavSploit",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -829,12 +1269,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Flight Controller Firmware",
+            "homepage": null,
             "id": 37060852,
             "language": "C",
-            "last_commit": "2026-08-28T12:45:10Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T01:58:17Z",
+            "open_issues": 371,
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11472
+            "stars": 11475,
+            "topics": [
+              "betaflight",
+              "cleanflight",
+              "flight-controller",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -845,12 +1295,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "INAV: Navigation-enabled flight control software",
+            "homepage": "https://inavflight.github.io",
             "id": 32148604,
             "language": "C",
-            "last_commit": "2026-08-27T19:49:36Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T04:32:33Z",
+            "open_issues": 427,
             "owner": "iNavFlight",
             "repo": "inav",
-            "stars": 4203
+            "stars": 4205,
+            "topics": [
+              "airplane",
+              "autopilot",
+              "fpv",
+              "hacktoberfest",
+              "inav",
+              "quadcopter",
+              "rc"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -863,12 +1326,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ghidra is a software reverse engineering (SRE) framework",
+                "homepage": "https://www.nsa.gov/ghidra",
                 "id": 173228436,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:31:09Z",
+                "open_issues": 1921,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 73178
+                "stars": 73391,
+                "topics": [
+                  "disassembler",
+                  "reverse-engineering",
+                  "software-analysis"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -879,12 +1351,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UNIX-like reverse engineering framework and command-line toolset",
+                "homepage": "https://www.radare.org",
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-28T14:13:27Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:30:06Z",
+                "open_issues": 825,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24671
+                "stars": 24674,
+                "topics": [
+                  "binary-analysis",
+                  "c",
+                  "commandline",
+                  "disassembler",
+                  "forensics",
+                  "hacktoberfest",
+                  "malware-analysis",
+                  "radare2",
+                  "reverse-engineering",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -895,12 +1383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firmware Analysis Tool",
+                "homepage": null,
                 "id": 14434734,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-11T15:27:34Z",
+                "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14282
+                "stars": 14284,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -911,12 +1404,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EMBA - The firmware security analyzer",
+                "homepage": "https://www.securefirmware.de",
                 "id": 290152313,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T14:54:46Z",
+                "open_issues": 25,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3617
+                "stars": 3617,
+                "topics": [
+                  "artificial-intelligence",
+                  "binary-analysis",
+                  "embedded-linux",
+                  "embedded-systems",
+                  "firmware",
+                  "firmware-analysis",
+                  "firmware-tools",
+                  "hacking",
+                  "infosec",
+                  "iot",
+                  "linux",
+                  "penetration-testing",
+                  "pentesting",
+                  "reverse-engineering",
+                  "sbom",
+                  "security",
+                  "security-tools",
+                  "static-analyzer",
+                  "vulnerability-scanner",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -927,12 +1446,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cwe_checker finds vulnerable patterns in binary executables",
+                "homepage": "https://docs.cwe-checker.io",
                 "id": 152072866,
                 "language": "Rust",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-20T09:29:19Z",
+                "open_issues": 29,
                 "owner": "fkie-cad",
                 "repo": "cwe_checker",
-                "stars": 1353
+                "stars": 1353,
+                "topics": [
+                  "binary-analysis",
+                  "cwe",
+                  "cwe-checker",
+                  "ghidra",
+                  "program-analysis",
+                  "reverse-engineering",
+                  "security",
+                  "security-scanner",
+                  "static-analyzer",
+                  "vulnerability-scanner"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -943,12 +1478,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Script for searching the extracted firmware file system for goodies!",
+                "homepage": null,
                 "id": 50965326,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-29T18:20:21Z",
+                "open_issues": 5,
                 "owner": "craigz28",
                 "repo": "firmwalker",
-                "stars": 1225
+                "stars": 1225,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -959,12 +1499,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Given an Arduino compatible microcontroller or Raspberry PI (experimental), JTAGenum scans pins[] for basic JTAG functionality and can be used to enumerate the Instruction Register for undocumented instructions. Props to JTAG scanner and Arduinull which came before JTAGenum and forwhich much of the code and logic is based on.  Feel free to branch and modify religiously (readme, credits, whatever)",
+                "homepage": "http://deadhacker.com/tools",
                 "id": 612594,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-10-30T08:40:07Z",
+                "open_issues": 13,
                 "owner": "cyphunk",
                 "repo": "JTAGenum",
-                "stars": 799
+                "stars": 799,
+                "topics": [
+                  "arduino",
+                  "jtag",
+                  "raspberrypi"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -975,12 +1524,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discovering vulnerabilities in firmware through concolic analysis and function clustering.",
+                "homepage": null,
                 "id": 193618712,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-09-17T19:07:12Z",
+                "open_issues": 9,
                 "owner": "ChrisTheCoolHut",
                 "repo": "Firmware_Slap",
-                "stars": 476
+                "stars": 476,
+                "topics": [
+                  "angr",
+                  "exploit",
+                  "firmware",
+                  "vulnerability-discovery"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -991,12 +1550,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "TROMMEL: Sift Through Embedded Device Files to Identify Potential Vulnerable Indicators",
+                "homepage": null,
                 "id": 107543105,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-06-23T20:03:41Z",
+                "open_issues": 0,
                 "owner": "CERTCC",
                 "repo": "trommel",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -1014,12 +1578,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for handling firmwares of DJI products, with focus on quadcopters.",
+                "homepage": null,
                 "id": 64874678,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-21T10:32:06Z",
+                "open_issues": 276,
                 "owner": "o-gs",
                 "repo": "dji-firmware-tools",
-                "stars": 2188
+                "stars": 2190,
+                "topics": [
+                  "ambarella",
+                  "dji",
+                  "elf",
+                  "firmware",
+                  "inspire",
+                  "mavic",
+                  "modding",
+                  "phantom",
+                  "reverse-engineering",
+                  "spark",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1030,12 +1611,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send patches to https://review.coreboot.org: https://www.flashrom.org/Development_Guidelines#GitHub",
+                "homepage": "https://review.coreboot.org/admin/repos/flashrom,general",
                 "id": 1474948,
                 "language": "C",
-                "last_commit": "2026-08-28T13:17:23Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-28T21:27:23Z",
+                "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1171
+                "stars": 1171,
+                "topics": [
+                  "firmware-tools",
+                  "firmware-update",
+                  "firmware-updater",
+                  "firmware-updates"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1046,12 +1637,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically exported from code.google.com/p/firmware-mod-kit",
+                "homepage": null,
                 "id": 36507356,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-02-17T15:27:22Z",
+                "open_issues": 62,
                 "owner": "rampageX",
                 "repo": "firmware-mod-kit",
-                "stars": 1000
+                "stars": 1000,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1062,12 +1658,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of tools for security testing of Internet of Things devices using specific network IoT protocols",
+                "homepage": null,
                 "id": 168120604,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-05-31T16:31:01Z",
+                "open_issues": 1,
                 "owner": "Samsung",
                 "repo": "cotopaxi",
-                "stars": 362
+                "stars": 362,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1078,12 +1679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Low-level NAND Flash dump and parsing utility",
+                "homepage": null,
                 "id": 19590781,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-03-17T17:39:50Z",
+                "open_issues": 21,
                 "owner": "ohjeongwook",
                 "repo": "dumpflash",
-                "stars": 321
+                "stars": 321,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1094,12 +1700,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for decrypting the firmware files for Samsung SSDs",
+                "homepage": null,
                 "id": 254223883,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-11T13:08:57Z",
+                "open_issues": 8,
                 "owner": "chrivers",
                 "repo": "samsung-firmware-magic",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "decryptor",
+                  "deobfuscation",
+                  "firmware",
+                  "firmware-extraction",
+                  "samsung"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1110,12 +1727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standalone Utility for FACT-like extraction",
+                "homepage": null,
                 "id": 170100702,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T12:56:15Z",
+                "open_issues": 45,
                 "owner": "fkie-cad",
                 "repo": "fact_extractor",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -1133,12 +1755,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "toolset for patching DJI birds 0306 modules",
+                "homepage": null,
                 "id": 145950575,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-01-26T18:35:26Z",
+                "open_issues": 14,
                 "owner": "o-gs",
                 "repo": "DJI_FC_Patcher",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1149,12 +1776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Waf build system",
+                "homepage": "https://waf.io/",
                 "id": 47159977,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-10T23:08:11Z",
+                "open_issues": 2,
                 "owner": "ArduPilot",
                 "repo": "waf",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -1176,12 +1808,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+            "homepage": "http://qgroundcontrol.io",
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-27T20:44:51Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:44:39Z",
+            "open_issues": 1000,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4876
+            "stars": 4876,
+            "topics": [
+              "ardupilot",
+              "drone",
+              "hacktoberfest",
+              "mavlink",
+              "pixhawk",
+              "px4",
+              "qt",
+              "uas",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -1192,12 +1839,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAVLink proxy and command line ground station",
+            "homepage": null,
             "id": 4198043,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T23:31:34Z",
+            "open_issues": 271,
             "owner": "ArduPilot",
             "repo": "MAVProxy",
-            "stars": 592
+            "stars": 592,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         }
@@ -1214,12 +1866,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for reverse engineering Android apk files",
+            "homepage": "https://apktool.org",
             "id": 3766706,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T10:30:33Z",
+            "open_issues": 81,
             "owner": "iBotPeaches",
             "repo": "Apktool",
-            "stars": 25400
+            "stars": 25403,
+            "topics": [
+              "9patch",
+              "android",
+              "apk",
+              "apktool",
+              "arsc",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -1230,12 +1894,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+            "homepage": "https://opensecurity.in",
             "id": 30102273,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T04:55:25Z",
+            "open_issues": 25,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21660
+            "stars": 21661,
+            "topics": [
+              "android-security",
+              "api-testing",
+              "apk",
+              "cwe",
+              "devsecops",
+              "dynamic-analysis",
+              "ios-security",
+              "malware-analysis",
+              "mastg",
+              "masvs",
+              "mobile-security",
+              "mobsf",
+              "mstg",
+              "owasp",
+              "rest",
+              "runtime-security",
+              "static-analysis",
+              "web-security",
+              "windows-mobile-security"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -1246,12 +1935,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools to work with android .dex and java .class files",
+            "homepage": null,
             "id": 32313383,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-21T06:08:25Z",
+            "open_issues": 379,
             "owner": "pxb1988",
             "repo": "dex2jar",
-            "stars": 13136
+            "stars": 13137,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -1262,12 +1956,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse engineering and pentesting for Android applications ",
+            "homepage": "https://ismyphonepwned.com/droid2web/",
             "id": 23953531,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T17:59:02Z",
+            "open_issues": 45,
             "owner": "androguard",
             "repo": "androguard",
-            "stars": 6211
+            "stars": 6214,
+            "topics": [
+              "android",
+              "dalvik",
+              "dex",
+              "odex",
+              "pentesting",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -1278,12 +1984,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!",
+            "homepage": "https://ashwin990.github.io/ADB-Toolkit/",
             "id": 175850447,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-18T20:56:06Z",
+            "open_issues": 25,
             "owner": "ASHWIN990",
             "repo": "ADB-Toolkit",
-            "stars": 2016
+            "stars": 2016,
+            "topics": [
+              "adb",
+              "adb-toolkit",
+              "android",
+              "android-debug-bridge",
+              "android-hack",
+              "android-hacking",
+              "android-metasploit",
+              "hack",
+              "hacking-tool",
+              "hacking-tools",
+              "kali",
+              "kali-linux",
+              "kali-linux-tools",
+              "kali-scripts",
+              "kali-tools",
+              "kalilinux",
+              "linux",
+              "penetration-testing",
+              "pentesting",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -1294,12 +2026,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 80468491,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-07T23:12:43Z",
+            "open_issues": 8,
             "owner": "Storyyeller",
             "repo": "enjarify",
-            "stars": 953
+            "stars": 953,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         }
@@ -1318,12 +2055,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DroneSecurity (NDSS 2023)",
+                "homepage": null,
                 "id": 585634235,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-03-10T12:58:04Z",
+                "open_issues": 21,
                 "owner": "RUB-SysSec",
                 "repo": "DroneSecurity",
-                "stars": 1309
+                "stars": 1310,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1334,12 +2076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 479032326,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2024-05-27T13:40:02Z",
+                "open_issues": 35,
                 "owner": "proto17",
                 "repo": "dji_droneid",
-                "stars": 538
+                "stars": 538,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1350,12 +2097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 96479541,
                 "language": "Smali",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-09T21:43:14Z",
+                "open_issues": 42,
                 "owner": "Bin4ry",
                 "repo": "deejayeye-modder",
-                "stars": 397
+                "stars": 398,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1366,12 +2118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DroneXtract is a digital forensics suite for DJI drones 🔍.  Analyze sensor values, visualize flight maps, and audit for criminal activity 🗺",
+                "homepage": null,
                 "id": 640702136,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-07-19T03:11:48Z",
+                "open_issues": 6,
                 "owner": "ANG13T",
                 "repo": "DroneXtract",
-                "stars": 363
+                "stars": 364,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1382,12 +2139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DJI Reverse engineering",
+                "homepage": null,
                 "id": 95594723,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2017-09-13T13:25:41Z",
+                "open_issues": 7,
                 "owner": "fvantienen",
                 "repo": "dji_rev",
-                "stars": 318
+                "stars": 319,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1398,12 +2160,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Firmware Flashing Tool v3.20",
+                "homepage": null,
                 "id": 97691568,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-03-02T05:47:47Z",
+                "open_issues": 25,
                 "owner": "jezzab",
                 "repo": "DUMLdore",
-                "stars": 315
+                "stars": 315,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1414,12 +2181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"Luckily, there are underground 0day exploits for FTPD for path traversal.\" #FakeNews #DotDotWontPwn",
+                "homepage": null,
                 "id": 95992418,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2017-09-13T13:26:20Z",
+                "open_issues": 5,
                 "owner": "MAVProxyUser",
                 "repo": "P0VsRedHerring",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1430,12 +2202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "python based DUML entry vector",
+                "homepage": null,
                 "id": 96928547,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-31T14:23:36Z",
+                "open_issues": 6,
                 "owner": "hdnes",
                 "repo": "pyduml",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1446,12 +2223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby port of PyDUML ",
+                "homepage": null,
                 "id": 97985718,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2022-04-23T00:26:56Z",
+                "open_issues": 5,
                 "owner": "MAVProxyUser",
                 "repo": "DUMLrub",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -1469,12 +2251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A drone engineered to autonomously seek out, hack, and wirelessly take full control over any other Parrot or 3DR drones within wireless or flying distance, creating an army of zombie drones under your control.",
+                "homepage": "https://samy.pl/skyjack/",
                 "id": 14887020,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-11-21T06:25:52Z",
+                "open_issues": 4,
                 "owner": "samyk",
                 "repo": "skyjack",
-                "stars": 1829
+                "stars": 1829,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1485,12 +2272,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dronejack is a node web-based application to take control of a Parrot drone",
+                "homepage": null,
                 "id": 90867685,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-06-09T13:42:31Z",
+                "open_issues": 0,
                 "owner": "brospars",
                 "repo": "wic-ter-dronejack",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -1508,12 +2300,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drone pentesting framework console",
+                "homepage": null,
                 "id": 207086727,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-23T13:13:00Z",
+                "open_issues": 2,
                 "owner": "dronesploit",
                 "repo": "dronesploit",
-                "stars": 2164
+                "stars": 2164,
+                "topics": [
+                  "cli",
+                  "console",
+                  "drone",
+                  "drones",
+                  "drones-security",
+                  "fpv-drones",
+                  "hacking",
+                  "pentest-tools",
+                  "python",
+                  "security-tools",
+                  "tinyscript"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1524,12 +2333,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Drone Hacking Tool is a GUI tool that works with a USB Wifi adapter and HackRF One for hacking drones.",
+                "homepage": null,
                 "id": 437980144,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-25T07:19:57Z",
+                "open_issues": 2,
                 "owner": "HKSSY",
                 "repo": "Drone-Hacking-Tool",
-                "stars": 693
+                "stars": 693,
+                "topics": [
+                  "hacking",
+                  "python",
+                  "ros",
+                  "wifi",
+                  "wireless"
+                ]
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1540,12 +2360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snoopy: A distributed tracking and data interception framework",
+                "homepage": null,
                 "id": 7036331,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2012-12-07T13:18:27Z",
+                "open_issues": 11,
                 "owner": "sensepost",
                 "repo": "Snoopy",
-                "stars": 613
+                "stars": 613,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             },
@@ -1556,12 +2381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code used in the Great Drone Duel of 2016 ",
+                "homepage": null,
                 "id": 61048842,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-06-13T20:59:30Z",
+                "open_issues": 3,
                 "owner": "marcnewlin",
                 "repo": "drone-duel",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
             }
@@ -1583,12 +2413,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community made schematics for the DJI drones and devices.",
+            "homepage": null,
             "id": 89297142,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-08T12:58:20Z",
+            "open_issues": 4,
             "owner": "o-gs",
             "repo": "dji-hardware-schematics",
-            "stars": 244
+            "stars": 244,
+            "topics": [
+              "boards",
+              "dji",
+              "kicad",
+              "layout",
+              "pcb",
+              "phantom",
+              "schematics"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -1599,12 +2442,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DUPC Packet communication dumps",
+            "homepage": null,
             "id": 116319914,
             "language": null,
+            "license": null,
             "last_commit": "2018-01-05T00:35:11Z",
+            "open_issues": 3,
             "owner": "o-gs",
             "repo": "dji-packet-dumps",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "dji",
+              "duml",
+              "dupc",
+              "inspire",
+              "mavic",
+              "phantom",
+              "spark",
+              "uart",
+              "wireshark"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         }
@@ -1621,12 +2479,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PX4 Autopilot Software",
+            "homepage": "https://px4.io",
             "id": 5298790,
             "language": "C++",
-            "last_commit": "2026-08-28T14:27:52Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T04:18:07Z",
+            "open_issues": 320,
             "owner": "PX4",
             "repo": "PX4-Autopilot",
-            "stars": 12507
+            "stars": 12510,
+            "topics": [
+              "autonomous",
+              "autopilot",
+              "avoidance",
+              "dds",
+              "drone",
+              "dronecode",
+              "drones",
+              "fixed-wing",
+              "mavlink",
+              "mavros",
+              "multicopter",
+              "pixhawk",
+              "px4",
+              "qgroundcontrol",
+              "ros",
+              "ros2",
+              "uas",
+              "uav",
+              "ugv"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -1637,12 +2520,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+            "homepage": "http://qgroundcontrol.io",
             "id": 2567844,
             "language": "C++",
-            "last_commit": "2026-08-27T20:44:51Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:44:39Z",
+            "open_issues": 1000,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4876
+            "stars": 4876,
+            "topics": [
+              "ardupilot",
+              "drone",
+              "hacktoberfest",
+              "mavlink",
+              "pixhawk",
+              "px4",
+              "qt",
+              "uas",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -1653,12 +2551,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A clear ArduPilot configuration sequence",
+            "homepage": "https://ardupilot.github.io/MethodicConfigurator/",
             "id": 778163871,
             "language": "Python",
-            "last_commit": "2026-08-28T13:33:11Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T23:05:51Z",
+            "open_issues": 25,
             "owner": "ArduPilot",
             "repo": "MethodicConfigurator",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "arducopter",
+              "ardupilot",
+              "configuration-management",
+              "devsecops",
+              "parameters",
+              "traceability"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         }
@@ -1675,12 +2585,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of free software and hardware to build remote controlled copters and planes",
+            "homepage": null,
             "id": 531177089,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-06T11:49:48Z",
+            "open_issues": 5,
             "owner": "Matthias84",
             "repo": "awesome-flying-fpv",
-            "stars": 694
+            "stars": 695,
+            "topics": [
+              "aerial",
+              "airplanes",
+              "awesome",
+              "awesome-list",
+              "drones",
+              "embedded",
+              "flight",
+              "fpv",
+              "radio-control",
+              "uav",
+              "vtol"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         },
@@ -1691,12 +2618,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Awesome Drones resources",
+            "homepage": null,
             "id": 120960785,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-17T06:44:02Z",
+            "open_issues": 7,
             "owner": "janesmae",
             "repo": "awesome-drones",
-            "stars": 635
+            "stars": 636,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "drone",
+              "drones",
+              "uav"
+            ]
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
         }
@@ -1705,15 +2644,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:36:41.666Z",
+    "last_updated": "2026-08-29T04:52:44.949Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome drone hacking tools & resources.",
+      "homepage": null,
       "id": 1003900318,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-06-28T10:28:38Z",
+      "open_issues": 0,
       "owner": "nicholasaleks",
       "repo": "Awesome-Drone-Hacking",
-      "stars": 164
+      "stars": 164,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "drone",
+        "hacking",
+        "list",
+        "research",
+        "talks",
+        "tools"
+      ]
     },
     "original_repository_sha": "ea42da6adb0bbab05e1ff21fa74b1ffdf06c5f5d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Drone-Hacking",
