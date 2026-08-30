@@ -17,11 +17,11 @@
                 "id": 189044704,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T09:12:57Z",
+                "last_commit": "2026-08-29T13:37:55Z",
                 "open_issues": 22,
                 "owner": "AFLplusplus",
                 "repo": "AFLplusplus",
-                "stars": 6737,
+                "stars": 6740,
                 "topics": [
                   "afl",
                   "afl-compiler",
@@ -120,7 +120,7 @@
             "open_issues": 429,
             "owner": "renode",
             "repo": "renode",
-            "stars": 2792,
+            "stars": 2796,
             "topics": [
               "arm",
               "embedded-systems",
@@ -335,7 +335,7 @@
             "open_issues": 83,
             "owner": "greatscottgadgets",
             "repo": "hackrf",
-            "stars": 8060,
+            "stars": 8063,
             "topics": [
               "hackrf",
               "hardware",
@@ -362,7 +362,7 @@
             "open_issues": 597,
             "owner": "gnuradio",
             "repo": "gnuradio",
-            "stars": 6240,
+            "stars": 6242,
             "topics": [
               "c-plus-plus",
               "cybersecurity",
@@ -391,10 +391,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-08-23T21:25:54Z",
-            "open_issues": 90,
+            "open_issues": 89,
             "owner": "f4exb",
             "repo": "sdrangel",
-            "stars": 3945,
+            "stars": 3946,
             "topics": [
               "airspy",
               "airspyhf",
@@ -433,7 +433,7 @@
             "open_issues": 265,
             "owner": "gqrx-sdr",
             "repo": "gqrx",
-            "stars": 3667,
+            "stars": 3669,
             "topics": [
               "airspy",
               "fft",
@@ -524,7 +524,7 @@
             "open_issues": 31,
             "owner": "riverloopsec",
             "repo": "killerbee",
-            "stars": 849,
+            "stars": 848,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
@@ -545,7 +545,7 @@
             "open_issues": 7,
             "owner": "BishopFox",
             "repo": "zigdiggity",
-            "stars": 298,
+            "stars": 297,
             "topics": [
               "iot-security",
               "pentest-tool",
@@ -580,7 +580,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 19877,
+                "stars": 19908,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -622,7 +622,7 @@
                 "open_issues": 353,
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14795,
+                "stars": 14797,
                 "topics": [
                   "access-point",
                   "attack",
@@ -808,7 +808,7 @@
                 "open_issues": 23,
                 "owner": "fsphil",
                 "repo": "hacktv",
-                "stars": 910,
+                "stars": 911,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
@@ -869,7 +869,7 @@
                 "open_issues": 121,
                 "owner": "P1sec",
                 "repo": "QCSuper",
-                "stars": 1643,
+                "stars": 1642,
                 "topics": [
                   "baseband",
                   "gsm",
@@ -1113,10 +1113,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T08:34:26Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "mavlink",
             "repo": "mavlink",
-            "stars": 2406,
+            "stars": 2407,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
@@ -1161,11 +1161,11 @@
             "id": 94815442,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-26T03:17:02Z",
-            "open_issues": 44,
+            "last_commit": "2026-08-30T07:17:23Z",
+            "open_issues": 50,
             "owner": "mavlink",
             "repo": "MAVSDK",
-            "stars": 928,
+            "stars": 929,
             "topics": [
               "ardupilot",
               "cpp",
@@ -1274,11 +1274,11 @@
             "id": 37060852,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T01:58:17Z",
-            "open_issues": 371,
+            "last_commit": "2026-08-30T04:43:03Z",
+            "open_issues": 370,
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11477,
+            "stars": 11478,
             "topics": [
               "betaflight",
               "cleanflight",
@@ -1300,8 +1300,8 @@
             "id": 32148604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T04:32:33Z",
-            "open_issues": 427,
+            "last_commit": "2026-08-30T00:43:56Z",
+            "open_issues": 425,
             "owner": "iNavFlight",
             "repo": "inav",
             "stars": 4205,
@@ -1332,10 +1332,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:31:09Z",
-                "open_issues": 1921,
+                "open_issues": 1922,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 73440,
+                "stars": 73646,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -1356,11 +1356,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T08:51:22Z",
-                "open_issues": 827,
+                "last_commit": "2026-08-30T07:42:44Z",
+                "open_issues": 820,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24674,
+                "stars": 24677,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -1392,7 +1392,7 @@
                 "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14288,
+                "stars": 14291,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
@@ -1410,10 +1410,10 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-27T14:54:46Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3617,
+                "stars": 3618,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -1620,7 +1620,7 @@
                 "open_issues": 80,
                 "owner": "flashrom",
                 "repo": "flashrom",
-                "stars": 1171,
+                "stars": 1170,
                 "topics": [
                   "firmware-tools",
                   "firmware-update",
@@ -1813,11 +1813,11 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T23:44:39Z",
-            "open_issues": 1000,
+            "last_commit": "2026-08-30T03:03:27Z",
+            "open_issues": 1002,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4877,
+            "stars": 4881,
             "topics": [
               "ardupilot",
               "drone",
@@ -1844,8 +1844,8 @@
             "id": 4198043,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-26T23:31:34Z",
-            "open_issues": 270,
+            "last_commit": "2026-08-30T00:03:32Z",
+            "open_issues": 271,
             "owner": "ArduPilot",
             "repo": "MAVProxy",
             "stars": 592,
@@ -1871,11 +1871,11 @@
             "id": 3766706,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T10:30:33Z",
-            "open_issues": 81,
+            "last_commit": "2026-08-29T12:50:16Z",
+            "open_issues": 83,
             "owner": "iBotPeaches",
             "repo": "Apktool",
-            "stars": 25405,
+            "stars": 25415,
             "topics": [
               "9patch",
               "android",
@@ -1900,10 +1900,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-08-27T04:55:25Z",
-            "open_issues": 25,
+            "open_issues": 28,
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21662,
+            "stars": 21664,
             "topics": [
               "android-security",
               "api-testing",
@@ -1965,7 +1965,7 @@
             "open_issues": 45,
             "owner": "androguard",
             "repo": "androguard",
-            "stars": 6214,
+            "stars": 6215,
             "topics": [
               "android",
               "dalvik",
@@ -1993,7 +1993,7 @@
             "open_issues": 25,
             "owner": "ASHWIN990",
             "repo": "ADB-Toolkit",
-            "stars": 2016,
+            "stars": 2018,
             "topics": [
               "adb",
               "adb-toolkit",
@@ -2064,7 +2064,7 @@
                 "open_issues": 21,
                 "owner": "RUB-SysSec",
                 "repo": "DroneSecurity",
-                "stars": 1310,
+                "stars": 1312,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
@@ -2085,7 +2085,7 @@
                 "open_issues": 35,
                 "owner": "proto17",
                 "repo": "dji_droneid",
-                "stars": 538,
+                "stars": 539,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
@@ -2106,7 +2106,7 @@
                 "open_issues": 42,
                 "owner": "Bin4ry",
                 "repo": "deejayeye-modder",
-                "stars": 398,
+                "stars": 399,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
@@ -2127,7 +2127,7 @@
                 "open_issues": 6,
                 "owner": "ANG13T",
                 "repo": "DroneXtract",
-                "stars": 364,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
@@ -2148,7 +2148,7 @@
                 "open_issues": 7,
                 "owner": "fvantienen",
                 "repo": "dji_rev",
-                "stars": 319,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:41.666Z"
@@ -2484,11 +2484,11 @@
             "id": 5298790,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T05:12:28Z",
-            "open_issues": 320,
+            "last_commit": "2026-08-30T03:16:32Z",
+            "open_issues": 327,
             "owner": "PX4",
             "repo": "PX4-Autopilot",
-            "stars": 12510,
+            "stars": 12515,
             "topics": [
               "autonomous",
               "autopilot",
@@ -2525,11 +2525,11 @@
             "id": 2567844,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T23:44:39Z",
-            "open_issues": 1000,
+            "last_commit": "2026-08-30T03:03:27Z",
+            "open_issues": 1002,
             "owner": "mavlink",
             "repo": "qgroundcontrol",
-            "stars": 4877,
+            "stars": 4881,
             "topics": [
               "ardupilot",
               "drone",
@@ -2557,7 +2557,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-08-29T05:21:43Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "ArduPilot",
             "repo": "MethodicConfigurator",
             "stars": 155,
@@ -2644,7 +2644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:24:24.271Z",
+    "last_updated": "2026-08-30T08:33:31.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome drone hacking tools & resources.",
@@ -2656,7 +2656,7 @@
       "open_issues": 0,
       "owner": "nicholasaleks",
       "repo": "Awesome-Drone-Hacking",
-      "stars": 164,
+      "stars": 166,
       "topics": [
         "awesome",
         "awesome-list",
