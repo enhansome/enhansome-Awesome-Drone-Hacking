@@ -157,7 +157,7 @@
                 "open_issues": 78,
                 "owner": "GlasgowEmbedded",
                 "repo": "glasgow",
-                "stars": 2220,
+                "stars": 2221,
                 "topics": [
                   "debugging-tool",
                   "fpga",
@@ -390,11 +390,11 @@
             "id": 41646286,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T22:29:30Z",
-            "open_issues": 96,
+            "last_commit": "2026-10-03T05:36:27Z",
+            "open_issues": 95,
             "owner": "f4exb",
             "repo": "sdrangel",
-            "stars": 4084,
+            "stars": 4085,
             "topics": [
               "airspy",
               "airspyhf",
@@ -580,7 +580,7 @@
                 "open_issues": 44,
                 "owner": "bettercap",
                 "repo": "bettercap",
-                "stars": 20052,
+                "stars": 20054,
                 "topics": [
                   "ble",
                   "deauthentication-attack",
@@ -1079,7 +1079,7 @@
                 "open_issues": 0,
                 "owner": "PentHertz",
                 "repo": "OpenBTS",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "gprs",
                   "gsm",
@@ -1116,7 +1116,7 @@
             "open_issues": 124,
             "owner": "mavlink",
             "repo": "mavlink",
-            "stars": 2444,
+            "stars": 2446,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:41.666Z"
@@ -1275,10 +1275,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-10-02T06:24:04Z",
-            "open_issues": 156,
+            "open_issues": 155,
             "owner": "betaflight",
             "repo": "betaflight",
-            "stars": 11605,
+            "stars": 11607,
             "topics": [
               "betaflight",
               "cleanflight",
@@ -1300,8 +1300,8 @@
             "id": 32148604,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T03:38:52Z",
-            "open_issues": 451,
+            "last_commit": "2026-10-03T04:48:26Z",
+            "open_issues": 450,
             "owner": "iNavFlight",
             "repo": "inav",
             "stars": 4241,
@@ -1335,7 +1335,7 @@
                 "open_issues": 1973,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 80365,
+                "stars": 80378,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -1356,7 +1356,7 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T17:13:48Z",
+                "last_commit": "2026-10-03T07:08:37Z",
                 "open_issues": 798,
                 "owner": "radareorg",
                 "repo": "radare2",
@@ -1854,7 +1854,7 @@
             "open_issues": 77,
             "owner": "iBotPeaches",
             "repo": "Apktool",
-            "stars": 25720,
+            "stars": 25722,
             "topics": [
               "9patch",
               "android",
@@ -1944,7 +1944,7 @@
             "open_issues": 1,
             "owner": "androguard",
             "repo": "androguard",
-            "stars": 6313,
+            "stars": 6314,
             "topics": [
               "android",
               "dalvik",
@@ -2532,7 +2532,7 @@
             "open_issues": 401,
             "owner": "PX4",
             "repo": "PX4-Autopilot",
-            "stars": 12730,
+            "stars": 12733,
             "topics": [
               "autonomous",
               "autopilot",
@@ -2688,7 +2688,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:24:59.293Z",
+    "last_updated": "2026-10-03T08:35:12.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome drone hacking tools & resources.",
