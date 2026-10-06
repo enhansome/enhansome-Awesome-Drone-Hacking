@@ -136,7 +136,7 @@ and flight control to hardware, firmware, and communication protocols.
 
 ## Emulators
 
-* [Renode](https://github.com/renode/renode) ⭐ 2,982 | 🐛 466 | 🌐 RobotFramework | 📅 2026-10-06 - Antmicro's open source simulation and virtual development framework for complex embedded systems. Supports many [STM32](https://github.com/renode/renode/blob/master/platforms/cpus/stm32f4.repl) ⭐ 2,982 | 🐛 466 | 🌐 RobotFramework | 📅 2026-10-06 series chips.
+* [Renode](https://github.com/renode/renode) ⭐ 2,983 | 🐛 466 | 🌐 RobotFramework | 📅 2026-10-06 - Antmicro's open source simulation and virtual development framework for complex embedded systems. Supports many [STM32](https://github.com/renode/renode/blob/master/platforms/cpus/stm32f4.repl) ⭐ 2,983 | 🐛 466 | 🌐 RobotFramework | 📅 2026-10-06 series chips.
 * [QEMU](https://www.qemu.org/) - A generic and open source machine emulator and virtualizer.
 
 ### Common RTOS
@@ -286,14 +286,14 @@ and flight control to hardware, firmware, and communication protocols.
 
 ## 💽 Autopilot Firmware
 
-* [Betaflight](https://github.com/betaflight/betaflight) ⭐ 11,616 | 🐛 168 | 🌐 C | 📅 2026-10-06 - Open Source Flight Controller Firmware for FPV Drones.
+* [Betaflight](https://github.com/betaflight/betaflight) ⭐ 11,617 | 🐛 164 | 🌐 C | 📅 2026-10-06 - Open Source Flight Controller Firmware for FPV Drones.
 * [iNav](https://github.com/iNavFlight/inav) ⭐ 4,248 | 🐛 433 | 🌐 C | 📅 2026-10-05 - Navigation-enabled flight control software.
 * [ArduPilot](https://ardupilot.org/) - Trusted, versatile, and open source autopilot system supporting many vehicle types.
 * [PX4](https://px4.io/) - Open Source Autopilot fro Drone Developers.
 
 ### Firmware Analysis
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 80,927 | 🐛 1,983 | 🌐 Java | 📅 2026-10-05 - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 80,938 | 🐛 1,984 | 🌐 Java | 📅 2026-10-05 - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
 * [Radare2](https://github.com/radareorg/radare2) ⭐ 24,933 | 🐛 787 | 🌐 C | 📅 2026-10-06 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
 * [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,390 | 🐛 98 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
 * [emba](https://github.com/e-m-b-a/emba) ⭐ 3,689 | 🐛 19 | 🌐 Shell | 📅 2026-10-05 - Analyze Linux-based firmware of embedded devices.
@@ -341,7 +341,7 @@ and flight control to hardware, firmware, and communication protocols.
 ## 📱 Mobile GCS Apps
 
 * [Apktool](https://github.com/iBotPeaches/Apktool) ⭐ 25,746 | 🐛 79 | 🌐 Java | 📅 2026-10-05 - A tool for reverse engineering Android apk files.
-* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,887 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-30 - Automated, all in one mobile application hacking.
+* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,888 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-30 - Automated, all in one mobile application hacking.
 * [Dex2Jar](https://github.com/pxb1988/dex2jar) ⭐ 13,143 | 🐛 380 | 🌐 Java | 📅 2024-07-21 - Tools to work with android .dex and java .class files.
 * [Androguard](https://github.com/androguard/androguard) ⭐ 6,323 | 🐛 1 | 🌐 Python | 📅 2026-10-03 - Reverse engineering and pentesting for Android applications.
 * [ADB Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) ⭐ 2,038 | 🐛 25 | 🌐 Shell | 📅 2024-08-18 - ADB-Toolkit V2 for easy ADB tricks with many perks in all one.
@@ -349,7 +349,7 @@ and flight control to hardware, firmware, and communication protocols.
 
 ## 🧠 Artifical Intelligence Libraries
 
-* [OpenCV](https://github.com/opencv/opencv) ⭐ 91,079 | 🐛 2,771 | 🌐 C++ | 📅 2026-10-06 - Open Source Computer Vision Library.
+* [OpenCV](https://github.com/opencv/opencv) ⭐ 91,080 | 🐛 2,770 | 🌐 C++ | 📅 2026-10-06 - Open Source Computer Vision Library.
 
 ## 🏢 Vendor-Specific Research
 
@@ -402,9 +402,9 @@ and flight control to hardware, firmware, and communication protocols.
 
 ## 📣 Vulnerability Disclosure Programs
 
-* [PX4](https://github.com/PX4/PX4-Autopilot/blob/main/SECURITY.md) ⭐ 12,747 | 🐛 400 | 🌐 C++ | 📅 2026-10-06 - PX4 Security Policy.
+* [PX4](https://github.com/PX4/PX4-Autopilot/blob/main/SECURITY.md) ⭐ 12,747 | 🐛 399 | 🌐 C++ | 📅 2026-10-06 - PX4 Security Policy.
 * [QGround Control](https://github.com/mavlink/qgroundcontrol/security) ⭐ 5,006 | 🐛 482 | 🌐 C++ | 📅 2026-10-06 - QGround Control Vulnerability Disclosure.
-* [ArduPilot](https://github.com/ArduPilot/MethodicConfigurator/security) ⭐ 163 | 🐛 37 | 🌐 Python | 📅 2026-10-05 - ArduPilot Vulnerability Disclosure.
+* [ArduPilot](https://github.com/ArduPilot/MethodicConfigurator/security) ⭐ 163 | 🐛 37 | 🌐 Python | 📅 2026-10-06 - ArduPilot Vulnerability Disclosure.
 * [DJI](https://security.dji.com) - Official DJI program offering $50–$30 k rewards.
 * [Parrot](https://www.parrot.com/en/newsroom/parrot-launches-its-bug-bounty-partnership-yeswehack) - Parrot runs a phased YesWeHack bug bounty program.
 * [Autel Robotics](https://www.autelrobotics.com/protocol/) - Autel Robotics Vulnerability Disclosure.
