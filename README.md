@@ -101,7 +101,7 @@ and flight control to hardware, firmware, and communication protocols.
 
 ## 🔬 Drone Hacking Labs, CTFs & Workshops
 
-* [Damn Vulnerable Drone (DVD)](https://github.com/nicholasaleks/Damn-Vulnerable-Drone) ⭐ 841 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-29 - Docker-based virtual drone hacking simulator.
+* [Damn Vulnerable Drone (DVD)](https://github.com/nicholasaleks/Damn-Vulnerable-Drone) ⭐ 842 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-29 - Docker-based virtual drone hacking simulator.
 * [Hack Our Drone Workshop](https://dronewolf.darkwolf.io/workshop) - Dark Wolf Hack Our Drone Workshop.
 * [Drone Wars, BloomCon](https://www.commonwealthu.edu/offices-directory/mathematics-computer-science-and-digital-forensics/drone-wars-competition) - Collegiate arena where teams hijack Wi‑Fi drones and race them through obstacles.
 * [Hack The Drone](http://hackthedrone.org/eng/index.php) - International Drone Hacking Competition, Korea Drone Security Association.
@@ -130,13 +130,13 @@ and flight control to hardware, firmware, and communication protocols.
 
 ### Fuzzing & Analysis Tools
 
-* [American Fuzzy Lop plus plus](https://github.com/AFLplusplus/AFLplusplus) ⭐ 6,783 | 🐛 24 | 🌐 C | 📅 2026-10-02 - AFL with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn\_mode, and a lot more!
+* [American Fuzzy Lop plus plus](https://github.com/AFLplusplus/AFLplusplus) ⭐ 6,784 | 🐛 23 | 🌐 C | 📅 2026-10-07 - AFL with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn\_mode, and a lot more!
 * [Avatar² Framework](https://github.com/avatartwo/avatar2) ⭐ 578 | 🐛 27 | 🌐 Python | 📅 2025-03-31 - Fuzzware is a project for automated, self-configuring fuzzing of firmware images.
 * [Fuzzware](https://github.com/fuzzware-fuzzer/fuzzware) ⭐ 388 | 🐛 15 | 🌐 Python | 📅 2026-06-27 - The target orchestration framework with focus on dynamic analysis of embedded devices' firmware.
 
 ## Emulators
 
-* [Renode](https://github.com/renode/renode) ⭐ 2,983 | 🐛 466 | 🌐 RobotFramework | 📅 2026-10-06 - Antmicro's open source simulation and virtual development framework for complex embedded systems. Supports many [STM32](https://github.com/renode/renode/blob/master/platforms/cpus/stm32f4.repl) ⭐ 2,983 | 🐛 466 | 🌐 RobotFramework | 📅 2026-10-06 series chips.
+* [Renode](https://github.com/renode/renode) ⭐ 2,986 | 🐛 464 | 🌐 RobotFramework | 📅 2026-10-07 - Antmicro's open source simulation and virtual development framework for complex embedded systems. Supports many [STM32](https://github.com/renode/renode/blob/master/platforms/cpus/stm32f4.repl) ⭐ 2,986 | 🐛 464 | 🌐 RobotFramework | 📅 2026-10-07 series chips.
 * [QEMU](https://www.qemu.org/) - A generic and open source machine emulator and virtualizer.
 
 ### Common RTOS
@@ -176,7 +176,7 @@ and flight control to hardware, firmware, and communication protocols.
 ### Remote Identification Discovery & Spoofing Tools
 
 * [RemoteID Spoofer](https://github.com/jjshoots/RemoteIDSpoofer) ⭐ 571 | 🐛 2 | 🌐 C | 📅 2025-09-26 - An ESP8266/NodeMCU tool that simulates up to 16 fake Remote ID–broadcasting drones around a GPS location via Wi‑Fi for Red Team testing.
-* [DragonSync-iOS](https://github.com/Root-Down-Digital/DragonSync-iOS) ⭐ 274 | 🐛 0 | 🌐 Swift | 📅 2026-10-04 - Real-time Remote/Drone ID–compliant drone detection and monitoring on iOS/macOS.
+* [DragonSync-iOS](https://github.com/Root-Down-Digital/DragonSync-iOS) ⭐ 275 | 🐛 0 | 🌐 Swift | 📅 2026-10-04 - Real-time Remote/Drone ID–compliant drone detection and monitoring on iOS/macOS.
 * [WiFi RID capture](https://github.com/sxjack/unix_rid_capture) ⭐ 69 | 🐛 9 | 🌐 C | 📅 2023-04-20 - A Linux tool that listens for ASTM F3411 (Wi‑Fi/Bluetooth) Remote ID frames and logs real UAV positions in JSON for monitoring or analysis.
 * [DJI DroneID Detection](https://www.crowdsupply.com/microphase-technology/antsdr-e200/updates/dji-droneid-detection) - FPGA-based software-defined radio based on the ZYNQ and AD936x chipsets.
 
@@ -187,13 +187,13 @@ and flight control to hardware, firmware, and communication protocols.
 
 ## Misc RF Tools
 
-* [HackRF One](https://github.com/greatscottgadgets/hackrf) ⭐ 8,144 | 🐛 86 | 🌐 C | 📅 2026-10-01 - Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz (half-duplex).
-* [GNURadio](https://github.com/gnuradio/gnuradio) ⭐ 6,279 | 🐛 606 | 🌐 C++ | 📅 2026-10-05 - Free and Open Software Radio Ecosystem.
-* [SDRangel](https://github.com/f4exb/sdrangel) ⭐ 4,093 | 🐛 93 | 🌐 C++ | 📅 2026-10-05 - Open-source Qt5 / OpenGL 3.0+ SDR and signal analyzer frontend to various hardware.
-* [GQRX](https://github.com/gqrx-sdr/gqrx) ⭐ 3,697 | 🐛 273 | 🌐 C++ | 📅 2026-10-05 - Software defined radio receiver powered by GNU Radio and Qt.
+* [HackRF One](https://github.com/greatscottgadgets/hackrf) ⭐ 8,146 | 🐛 85 | 🌐 C | 📅 2026-10-07 - Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz (half-duplex).
+* [GNURadio](https://github.com/gnuradio/gnuradio) ⭐ 6,280 | 🐛 609 | 🌐 C++ | 📅 2026-10-06 - Free and Open Software Radio Ecosystem.
+* [SDRangel](https://github.com/f4exb/sdrangel) ⭐ 4,094 | 🐛 96 | 🌐 C++ | 📅 2026-10-05 - Open-source Qt5 / OpenGL 3.0+ SDR and signal analyzer frontend to various hardware.
+* [GQRX](https://github.com/gqrx-sdr/gqrx) ⭐ 3,697 | 🐛 274 | 🌐 C++ | 📅 2026-10-05 - Software defined radio receiver powered by GNU Radio and Qt.
 * [SigDigger](https://github.com/BatchDrake/SigDigger) ⭐ 2,911 | 🐛 74 | 🌐 C++ | 📅 2026-02-11 - Free digital signal analyzer.
-* [UberTooth One](https://github.com/greatscottgadgets/ubertooth) ⭐ 2,143 | 🐛 53 | 🌐 C | 📅 2026-03-19 - Open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation.
-* [Killerbee](https://github.com/riverloopsec/killerbee) ⭐ 851 | 🐛 31 | 🌐 C | 📅 2023-09-12 - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
+* [UberTooth One](https://github.com/greatscottgadgets/ubertooth) ⭐ 2,144 | 🐛 53 | 🌐 C | 📅 2026-03-19 - Open source 2.4 GHz wireless development platform suitable for Bluetooth experimentation.
+* [Killerbee](https://github.com/riverloopsec/killerbee) ⭐ 852 | 🐛 31 | 🌐 C | 📅 2023-09-12 - Framework for Testing & Auditing ZigBee and IEEE 802.15.4 Networks.
 * [zigdiggity](https://github.com/BishopFox/zigdiggity) ⭐ 299 | 🐛 7 | 🌐 Python | 📅 2021-09-13 - A ZigBee hacking toolkit by Bishop Fox.
 * [SDR# (SDRSharp)](https://airspy.com/download/) - Airspy is a popular, affordable SDR (software defined radio.
 * [Bluefruit LE Sniffer](https://www.adafruit.com/product/2269) - Easy to use Bluetooth Low Energy sniffer.
@@ -219,8 +219,8 @@ and flight control to hardware, firmware, and communication protocols.
 
 ### Wi-Fi Detection & Infiltration Tools
 
-* [Bettercap](https://github.com/bettercap/bettercap) ⭐ 20,102 | 🐛 44 | 🌐 Go | 📅 2026-08-13 - MITM framework to hijack drone app traffic.
-* [WifiPhisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,879 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Automated Evil Twin to phish Drone app creds.
+* [Bettercap](https://github.com/bettercap/bettercap) ⭐ 20,104 | 🐛 44 | 🌐 Go | 📅 2026-08-13 - MITM framework to hijack drone app traffic.
+* [WifiPhisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,882 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Automated Evil Twin to phish Drone app creds.
 * [Hack-a-drone](https://github.com/Ordina-JTech/hack-a-drone?tab=readme-ov-file) ⭐ 20 | 🐛 1 | 🌐 Java | 📅 2018-02-06 - A Java-based project allowing control of Wi‑Fi drones (e.g. Cheerson CX‑10) via app or keyboard, demonstrating remote command capabilities.
 * [Aircrack-ng](https://aircrack-ng.org) - Deauth and WPA cracking toolkit.
 * [DangerDrone](https://resources.bishopfox.com/resources/tools/drones-penetration-testers/attack-tools/) - A DIY penetration testing quadcopter platform announced at Black Hat 2016.
@@ -228,7 +228,7 @@ and flight control to hardware, firmware, and communication protocols.
 
 ### Common Wi-Fi Protocols & Equipment
 
-* [WFB-ng](https://github.com/svpcom/wfb-ng) ⭐ 1,550 | 🐛 23 | 🌐 Python | 📅 2026-10-03 - Low‑latency UDP Wi‑Fi broadcast for FPV drones.
+* [WFB-ng](https://github.com/svpcom/wfb-ng) ⭐ 1,551 | 🐛 23 | 🌐 Python | 📅 2026-10-03 - Low‑latency UDP Wi‑Fi broadcast for FPV drones.
 * [OpenIPC](https://openipc.org/) - Open firmware turning IP cameras into low‑cost FPV links.
 * [RubyFPV](https://rubyfpv.com/) - Cross‑platform digital FPV stack for Wi‑Fi dongles.
 * [RunCam WifiLink](https://shop.runcam.com/runcam-wifilink-based-on-openipc/) - 5.8 GHz Wi‑Fi FPV adapter with open protocol docs.
@@ -250,9 +250,9 @@ and flight control to hardware, firmware, and communication protocols.
 
 ### Cellular Analysis & Tampering Tools
 
-* [LTE Sniffer](https://github.com/SysSec-KAIST/LTESniffer) ⭐ 2,236 | 🐛 26 | 🌐 C++ | 📅 2024-10-23 - Open-source LTE downlink/uplink eavesdropper.
+* [LTE Sniffer](https://github.com/SysSec-KAIST/LTESniffer) ⭐ 2,240 | 🐛 26 | 🌐 C++ | 📅 2024-10-23 - Open-source LTE downlink/uplink eavesdropper.
 * [QCSuper](https://github.com/P1sec/QCSuper) ⭐ 1,660 | 🐛 121 | 🌐 Python | 📅 2026-09-25 - Capture 2G-4G traffic using Qualcomm phones.
-* [gr-gsm](https://github.com/ptrkrysik/gr-gsm) ⭐ 1,503 | 🐛 164 | 🌐 C++ | 📅 2025-03-10 - GSM analysis with GNU Radio.
+* [gr-gsm](https://github.com/ptrkrysik/gr-gsm) ⭐ 1,503 | 🐛 163 | 🌐 C++ | 📅 2025-03-10 - GSM analysis with GNU Radio.
 * [LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) ⭐ 673 | 🐛 33 | 🌐 C++ | 📅 2019-02-26 - LTE cell detection and analysis.
 * [FALCON LTE](https://github.com/falkenber9/falcon) ⭐ 366 | 🐛 16 | 🌐 C++ | 📅 2023-10-13 - Fast Analysis of LTE Control Channels for real-time analysis.
 * [Kalibrate](https://github.com/scateu/kalibrate-hackrf) ⭐ 308 | 🐛 18 | 🌐 C++ | 📅 2022-03-21 - GSM base station scanner and frequency calibration tool.
@@ -272,9 +272,9 @@ and flight control to hardware, firmware, and communication protocols.
 
 ## 🤖 Protocols & Middleware Tools
 
-* [MAVLink](https://github.com/mavlink/mavlink) ⭐ 2,449 | 🐛 125 | 🌐 Python | 📅 2026-09-30 - Marshalling / communication library for drones.
+* [MAVLink](https://github.com/mavlink/mavlink) ⭐ 2,449 | 🐛 123 | 🌐 Python | 📅 2026-10-07 - Marshalling / communication library for drones.
 * [MAVROS](https://github.com/mavlink/mavros) ⭐ 1,231 | 🐛 401 | 🌐 C++ | 📅 2026-09-27 - MAVLink to ROS gateway with proxy for Ground Control Station.
-* [MAVSDK](https://github.com/mavlink/MAVSDK) ⭐ 944 | 🐛 37 | 🌐 C++ | 📅 2026-10-06 - API and library for MAVLink compatible systems written in C++17.
+* [MAVSDK](https://github.com/mavlink/MAVSDK) ⭐ 945 | 🐛 37 | 🌐 C++ | 📅 2026-10-07 - API and library for MAVLink compatible systems written in C++17.
 * [MAVLink Router](https://github.com/mavlink-router/mavlink-router) ⭐ 618 | 🐛 83 | 🌐 C++ | 📅 2026-07-13 - Route mavlink packets between endpoints.
 * [ROS](https://www.ros.org/) - Open Source Robot Operation System (ROS).
 
@@ -286,16 +286,16 @@ and flight control to hardware, firmware, and communication protocols.
 
 ## 💽 Autopilot Firmware
 
-* [Betaflight](https://github.com/betaflight/betaflight) ⭐ 11,617 | 🐛 164 | 🌐 C | 📅 2026-10-06 - Open Source Flight Controller Firmware for FPV Drones.
-* [iNav](https://github.com/iNavFlight/inav) ⭐ 4,248 | 🐛 433 | 🌐 C | 📅 2026-10-05 - Navigation-enabled flight control software.
+* [Betaflight](https://github.com/betaflight/betaflight) ⭐ 11,620 | 🐛 161 | 🌐 C | 📅 2026-10-07 - Open Source Flight Controller Firmware for FPV Drones.
+* [iNav](https://github.com/iNavFlight/inav) ⭐ 4,251 | 🐛 435 | 🌐 C | 📅 2026-10-06 - Navigation-enabled flight control software.
 * [ArduPilot](https://ardupilot.org/) - Trusted, versatile, and open source autopilot system supporting many vehicle types.
 * [PX4](https://px4.io/) - Open Source Autopilot fro Drone Developers.
 
 ### Firmware Analysis
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 80,938 | 🐛 1,984 | 🌐 Java | 📅 2026-10-05 - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
-* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,933 | 🐛 787 | 🌐 C | 📅 2026-10-06 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,390 | 🐛 98 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 81,224 | 🐛 1,984 | 🌐 Java | 📅 2026-10-07 - Software Reverse Engineering suite; handles arbitrary binaries, if you provide CPU architecture and endianness of the binary.
+* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,940 | 🐛 790 | 🌐 C | 📅 2026-10-07 - Software Reverse Engineering framework, also handles popular formats and arbitrary binaries, has an extensive command line toolset.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,392 | 🐛 98 | 🌐 Rust | 📅 2026-08-11 - Searches a binary for "interesting" stuff, as well as extracts arbitrary files.
 * [emba](https://github.com/e-m-b-a/emba) ⭐ 3,689 | 🐛 19 | 🌐 Shell | 📅 2026-10-05 - Analyze Linux-based firmware of embedded devices.
 * [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,361 | 🐛 32 | 🌐 Rust | 📅 2026-09-28 - Finds vulnerable patterns in binary executables - ELF support for x86, ARM, and MIPS, experimental bare-metal support.
 * [JTAGenum](https://github.com/cyphunk/JTAGenum) ⭐ 801 | 🐛 14 | 🌐 C++ | 📅 2023-10-30 - Add JTAG capabilities to an Arduino.
@@ -307,8 +307,8 @@ and flight control to hardware, firmware, and communication protocols.
 
 ### Firmware Extraction
 
-* [DJI Firmware Tools](https://github.com/o-gs/dji-firmware-tools) ⭐ 2,233 | 🐛 280 | 🌐 C | 📅 2026-07-21 - Utilities to extract, modify, and rebuild DJI drone firmware modules—including calibration, parameter editing, and repackaging for analysis.
-* [flashrom](https://github.com/flashrom/flashrom) ⭐ 1,177 | 🐛 80 | 🌐 C | 📅 2026-10-05 - Tool for detecting, reading, writing, verifying and erasing flash chips.
+* [DJI Firmware Tools](https://github.com/o-gs/dji-firmware-tools) ⭐ 2,235 | 🐛 280 | 🌐 C | 📅 2026-07-21 - Utilities to extract, modify, and rebuild DJI drone firmware modules—including calibration, parameter editing, and repackaging for analysis.
+* [flashrom](https://github.com/flashrom/flashrom) ⭐ 1,177 | 🐛 80 | 🌐 C | 📅 2026-10-06 - Tool for detecting, reading, writing, verifying and erasing flash chips.
 * [Firmware Mod Kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,000 | 🐛 62 | 🌐 C | 📅 2026-02-17 - Extraction tools for several container formats.
 * [Cotopaxi](https://github.com/Samsung/cotopaxi) ⭐ 362 | 🐛 1 | 🌐 Python | 📅 2024-05-31 - Set of tools for security testing of Internet of Things devices using specific network IoT protocols.
 * [dumpflash](https://github.com/ohjeongwook/dumpflash) ⭐ 320 | 🐛 21 | 🌐 Python | 📅 2022-03-17 - Low-level NAND Flash dump and parsing utility.
@@ -334,22 +334,22 @@ and flight control to hardware, firmware, and communication protocols.
 
 ## 🛫 Ground Control Stations
 
-* [QGround Control](https://github.com/mavlink/qgroundcontrol) ⭐ 5,006 | 🐛 482 | 🌐 C++ | 📅 2026-10-06 - Cross-platform ground control station for drones.
-* [MAVProxy](https://github.com/ArduPilot/MAVProxy) ⭐ 597 | 🐛 272 | 🌐 Python | 📅 2026-10-06 - CLI-based GCS Software.
+* [QGround Control](https://github.com/mavlink/qgroundcontrol) ⭐ 5,009 | 🐛 480 | 🌐 C++ | 📅 2026-10-07 - Cross-platform ground control station for drones.
+* [MAVProxy](https://github.com/ArduPilot/MAVProxy) ⭐ 598 | 🐛 271 | 🌐 Python | 📅 2026-10-06 - CLI-based GCS Software.
 * [Mission Planner](https://ardupilot.org/planner/) - Windows-based GCS Software.
 
 ## 📱 Mobile GCS Apps
 
-* [Apktool](https://github.com/iBotPeaches/Apktool) ⭐ 25,746 | 🐛 79 | 🌐 Java | 📅 2026-10-05 - A tool for reverse engineering Android apk files.
-* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,888 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-30 - Automated, all in one mobile application hacking.
-* [Dex2Jar](https://github.com/pxb1988/dex2jar) ⭐ 13,143 | 🐛 380 | 🌐 Java | 📅 2024-07-21 - Tools to work with android .dex and java .class files.
-* [Androguard](https://github.com/androguard/androguard) ⭐ 6,323 | 🐛 1 | 🌐 Python | 📅 2026-10-03 - Reverse engineering and pentesting for Android applications.
-* [ADB Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) ⭐ 2,038 | 🐛 25 | 🌐 Shell | 📅 2024-08-18 - ADB-Toolkit V2 for easy ADB tricks with many perks in all one.
+* [Apktool](https://github.com/iBotPeaches/Apktool) ⭐ 25,748 | 🐛 78 | 🌐 Java | 📅 2026-10-07 - A tool for reverse engineering Android apk files.
+* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,893 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-30 - Automated, all in one mobile application hacking.
+* [Dex2Jar](https://github.com/pxb1988/dex2jar) ⭐ 13,142 | 🐛 380 | 🌐 Java | 📅 2024-07-21 - Tools to work with android .dex and java .class files.
+* [Androguard](https://github.com/androguard/androguard) ⭐ 6,324 | 🐛 1 | 🌐 Python | 📅 2026-10-03 - Reverse engineering and pentesting for Android applications.
+* [ADB Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) ⭐ 2,037 | 🐛 25 | 🌐 Shell | 📅 2024-08-18 - ADB-Toolkit V2 for easy ADB tricks with many perks in all one.
 * [Enjarify](https://github.com/Storyyeller/enjarify) ⭐ 952 | 🐛 8 | 🌐 Python | 📅 2021-11-07 - Tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.
 
 ## 🧠 Artifical Intelligence Libraries
 
-* [OpenCV](https://github.com/opencv/opencv) ⭐ 91,080 | 🐛 2,770 | 🌐 C++ | 📅 2026-10-06 - Open Source Computer Vision Library.
+* [OpenCV](https://github.com/opencv/opencv) ⭐ 91,096 | 🐛 2,774 | 🌐 C++ | 📅 2026-10-07 - Open Source Computer Vision Library.
 
 ## 🏢 Vendor-Specific Research
 
@@ -358,10 +358,10 @@ and flight control to hardware, firmware, and communication protocols.
 * [Drone-ID Receiver for DJI OcuSync 2.0](https://github.com/RUB-SysSec/DroneSecurity) ⭐ 1,323 | 🐛 21 | 🌐 Python | 📅 2023-03-10
 * [DJI Drone ID](https://github.com/proto17/dji_droneid) ⭐ 547 | 🐛 35 | 🌐 MATLAB | 📅 2024-05-27 - An SDR-based decoder that demodulates proprietary DJI DroneID RF bursts and allows creation of arbitrary DroneID frames using MATLAB/Octave scripts.
 * [deejaeye-Modder](https://github.com/Bin4ry/deejayeye-modder) ⭐ 400 | 🐛 42 | 🌐 Smali | 📅 2021-12-09 - DJI Drone Firmware Modding Tool.
-* [DroneXtract](https://github.com/ANG13T/DroneXtract) ⭐ 369 | 🐛 6 | 🌐 Go | 📅 2023-07-19 - Digital forensics suite for DJI drones.
-* [dji\_rev](https://github.com/fvantienen/dji_rev) ⭐ 325 | 🐛 7 | 🌐 C++ | 📅 2017-09-13 - DJI Reverse Engineering Toolkit.
+* [DroneXtract](https://github.com/ANG13T/DroneXtract) ⭐ 370 | 🐛 6 | 🌐 Go | 📅 2023-07-19 - Digital forensics suite for DJI drones.
+* [dji\_rev](https://github.com/fvantienen/dji_rev) ⭐ 324 | 🐛 7 | 🌐 C++ | 📅 2017-09-13 - DJI Reverse Engineering Toolkit.
 * [DUMLdore](https://github.com/jezzab/DUMLdore) ⚠️ Archived - DJI Firmware Flashing Tool v3.20.
-* [RedHerring](https://github.com/MAVProxyUser/P0VsRedHerring) ⭐ 116 | 🐛 5 | 🌐 Ruby | 📅 2017-09-13 - FTPD directory transversal 0day.
+* [RedHerring](https://github.com/MAVProxyUser/P0VsRedHerring) ⭐ 115 | 🐛 5 | 🌐 Ruby | 📅 2017-09-13 - FTPD directory transversal 0day.
 * [pyduml](https://github.com/hdnes/pyduml) ⭐ 60 | 🐛 6 | 🌐 Python | 📅 2019-08-31 - Python based DUML "DJI Universal Markup Language" Exploit & FW upgrade/downgrade tool.
 * [DUMLrub](https://github.com/MAVProxyUser/DUMLrub) ⭐ 48 | 🐛 5 | 🌐 Ruby | 📅 2022-04-23 - Ruby port of PyDUML.
 * [Drone Hacks](https://drone-hacks.com/) - DJI Drone Hacking Tool for purchase.
@@ -369,13 +369,13 @@ and flight control to hardware, firmware, and communication protocols.
 
 ### Parrot
 
-* [SkyJack](https://github.com/samyk/skyjack) ⭐ 1,835 | 🐛 4 | 🌐 JavaScript | 📅 2017-11-21 - Drone source used to autonomously seek out, hack, and wirelessly take full control over any other Parrot or 3DR drones.
+* [SkyJack](https://github.com/samyk/skyjack) ⭐ 1,836 | 🐛 4 | 🌐 JavaScript | 📅 2017-11-21 - Drone source used to autonomously seek out, hack, and wirelessly take full control over any other Parrot or 3DR drones.
 * [DroneJack](https://github.com/brospars/wic-ter-dronejack) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2017-06-09 - Dronejack is a node web-based application to take control of a Parrot drone.
 * [Maldrone](https://www.youtube.com/watch?v=5SlWdl4ZuAI) - First Backdoor for Drones.
 
 ### Misc
 
-* [DroneSploit](https://github.com/dronesploit/dronesploit) ⭐ 2,188 | 🐛 2 | 🌐 Python | 📅 2024-11-23 - Drone pentesting framework console.
+* [DroneSploit](https://github.com/dronesploit/dronesploit) ⭐ 2,191 | 🐛 2 | 🌐 Python | 📅 2024-11-23 - Drone pentesting framework console.
 * [Drone-Hacking-Tool](https://github.com/HKSSY/Drone-Hacking-Tool) ⚠️ Archived - Drone Hacking Tool is a GUI tool that works with a USB Wifi adapter and HackRF One for hacking drones.
 * [Snoopy](https://github.com/sensepost/Snoopy) ⭐ 613 | 🐛 11 | 🌐 Python | 📅 2012-12-07 - A distributed tracking and data interception framework.
 * [Drone Duel](https://github.com/marcnewlin/drone-duel) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2016-06-13 - Code used in the Great Drone Duel of 2016.
@@ -397,14 +397,14 @@ and flight control to hardware, firmware, and communication protocols.
 ## 💥 Exploits, CVEs & Vulnerabilities
 
 * [Robot Vulnerability Database](https://github.com/aliasrobotics/RVD) ⭐ 244 | 🐛 227 | 🌐 Python | 📅 2026-07-14 - An open archive tracking robot/ROS vulnerabilities with RVSS scoring, curated by Alias Robotics.
-* [Infected Drones](https://github.com/nicholasaleks/infected-drones) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2026-09-11 - A collection of vulnerabilities & exploits against modern GCS
+* [Infected Drones](https://github.com/nicholasaleks/infected-drones) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2026-09-11 - A collection of vulnerabilities & exploits against modern GCS
 * [Exploit Database](https://www.exploit-db.com/) - A large, public, CVE‑compliant repo of exploits and proof‑of‑concept code for penetration testers and researchers.
 
 ## 📣 Vulnerability Disclosure Programs
 
-* [PX4](https://github.com/PX4/PX4-Autopilot/blob/main/SECURITY.md) ⭐ 12,747 | 🐛 399 | 🌐 C++ | 📅 2026-10-06 - PX4 Security Policy.
-* [QGround Control](https://github.com/mavlink/qgroundcontrol/security) ⭐ 5,006 | 🐛 482 | 🌐 C++ | 📅 2026-10-06 - QGround Control Vulnerability Disclosure.
-* [ArduPilot](https://github.com/ArduPilot/MethodicConfigurator/security) ⭐ 163 | 🐛 37 | 🌐 Python | 📅 2026-10-06 - ArduPilot Vulnerability Disclosure.
+* [PX4](https://github.com/PX4/PX4-Autopilot/blob/main/SECURITY.md) ⭐ 12,754 | 🐛 399 | 🌐 C++ | 📅 2026-10-07 - PX4 Security Policy.
+* [QGround Control](https://github.com/mavlink/qgroundcontrol/security) ⭐ 5,009 | 🐛 480 | 🌐 C++ | 📅 2026-10-07 - QGround Control Vulnerability Disclosure.
+* [ArduPilot](https://github.com/ArduPilot/MethodicConfigurator/security) ⭐ 163 | 🐛 37 | 🌐 Python | 📅 2026-10-07 - ArduPilot Vulnerability Disclosure.
 * [DJI](https://security.dji.com) - Official DJI program offering $50–$30 k rewards.
 * [Parrot](https://www.parrot.com/en/newsroom/parrot-launches-its-bug-bounty-partnership-yeswehack) - Parrot runs a phased YesWeHack bug bounty program.
 * [Autel Robotics](https://www.autelrobotics.com/protocol/) - Autel Robotics Vulnerability Disclosure.
@@ -447,4 +447,4 @@ This repository is for educational and research purposes only. Users are respons
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
